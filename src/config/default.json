@@ -1,0 +1,7 @@
+{
+    "address": "localhost",
+    "user": "postgres",
+    "password": "1234",
+    "driver": "psycopg2",
+    "db": "fifa"
+}

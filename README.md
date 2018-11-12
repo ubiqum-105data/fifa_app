@@ -25,4 +25,4 @@ python3 get-pip.py
 pip install -r requirements.txt
 ```
 
-* run `create_db.py` to create the tables.
+* run `import_data.py` to create the table and import `fifa2005.csv`.

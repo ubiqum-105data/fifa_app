@@ -3,7 +3,7 @@ import pandas as pd
 
 
 if __name__ == '__main__':
-    df = pd.read_csv('data/fifa2005.csv')
+    df = pd.read_csv('../data/fifa2005.csv', encoding = 'utf-8')
     overall = df[['overall']]
     potential = [int(str(p[0])[2:]) for p in overall.values]
     overall = [int(str(p[0])[:2]) for p in overall.values]

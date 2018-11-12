@@ -11,6 +11,7 @@ class Player(Base):
 
     id = Column(Integer, primary_key=True)
     overall = Column(Integer, nullable=False)
+    potential = Column(Integer, nullable=False)
     name = Column(String(250), nullable=False)
     position = Column(String(50), nullable=False)
     age = Column(Integer, nullable=False)
@@ -22,6 +23,7 @@ class Player(Base):
         return {
             'id': self.id,
             'overall': self.overall,
+            'potential': self.potential,
             'name': self.name,
             'position': self.position,
             'age': self.age,

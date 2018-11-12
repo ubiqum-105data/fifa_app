@@ -23,6 +23,5 @@ if __name__ == '__main__':
         df['overall'] = overall
         df['potential'] = potential
         engine = create_engine(get_db_string())
-        df.to_sql(name = d[1], con = engine, if_exists = 'append',
-                  index_label = 'id')
+        df.to_sql(name = d[1], con = engine, index_label = 'id')
 

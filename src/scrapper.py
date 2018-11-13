@@ -1,4 +1,6 @@
+#!/usr/bin/python
 from selenium import webdriver
+from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 import pandas as pd
@@ -9,8 +11,12 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 import matplotlib.pyplot as plt
 import seaborn as sns
-driver = webdriver.Chrome('C:\\Users\\Franz Bewerunge\\Desktop\\Ubiqum\\Study Data\\chromedriver.exe')
-driver.get("https://www.fifaindex.com/players/fifa08_1/")
+
+binary = FirefoxBinary('/usr/bin/firefox-beta-bin')
+driver = webdriver.Firefox(firefox_binary=binary)
+driver.get("https://www.fifaindex.com/de/players/fifa19_1/")
+#driver = webdriver.Chrome('C:\\Users\\Franz Bewerunge\\Desktop\\Ubiqum\\Study Data\\chromedriver.exe')
+#driver.get("https://www.fifaindex.com/players/fifa08_1/")
 
 players = pd.DataFrame()
 limiter = True

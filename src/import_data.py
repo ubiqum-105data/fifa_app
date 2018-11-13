@@ -9,6 +9,10 @@ from config.db import get_db_string
 IMPORT_DATA = [
     ['../data/fifa2005.csv', 'fifa_2005'],
     ['../data/fifa2006.csv', 'fifa_2006'],
+    ['../data/fifa2007.csv', 'fifa_2007'],
+    ['../data/fifa2008.csv', 'fifa_2008'],
+    ['../data/fifa2009.csv', 'fifa_2009'],
+    ['../data/fifa2010.csv', 'fifa_2010'],
 ]
 
 if __name__ == '__main__':

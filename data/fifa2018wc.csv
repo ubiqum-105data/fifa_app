@@ -1,0 +1,1699 @@
+age,id,name,nation,overall,position,potential,team
+33,20801,Cristiano Ronaldo,Portugal,95,ST LM,95,Portugal
+31,158023,Lionel Messi,Argentinien,94,RF MS ZOM,94,Argentinien
+26,190871,Neymar,Brasilien,93,LF,94,Brasilien
+29,188545,Robert Lewandowski,Polen,92,ST,92,Polen
+27,193080,De Gea,Spanien,91,TW,93,Spanien
+31,176580,Luis Suárez,Uruguay,91,ST,91,Uruguay
+32,167495,Manuel Neuer,Deutschland,91,TW,91,Deutschland
+27,192985,Kevin De Bruyne,Belgien,90,ZM ZOM MS,92,Belgien
+27,183277,Eden Hazard,Belgien,90,MS,91,Belgien
+28,182521,Toni Kroos,Deutschland,90,ZM ZDM,90,Deutschland
+29,178603,Mats Hummels,Deutschland,90,IV,90,Deutschland
+32,155862,Sergio Ramos,Spanien,90,IV,90,Spanien
+27,194765,Antoine Griezmann,Frankreich,89,MS ST,89,Frankreich
+26,190460,Christian Eriksen,Dänemark,89,ZOM RM LM ZM,90,Dänemark
+31,179813,Edinson Cavani,Uruguay,89,ST,89,Uruguay
+32,177003,Luka Modrić,Kroatien,89,ZM ZDM ZOM,89,Kroatien
+28,173731,Gareth Bale,Wales,89,RF ST LF,89,Wales
+27,215914,N'Golo Kanté,Frankreich,88,ZDM ZM,90,Frankreich
+26,209331,Mohamed Salah,Ägypten,88,RM,91,Ägypten
+26,192119,Thibaut Courtois,Belgien,88,TW,91,Belgien
+27,189509,Thiago,Spanien,88,ZM ZOM,88,Spanien
+26,189242,Coutinho,Brasilien,88,RF,91,Brasilien
+32,182493,Diego Godín,Uruguay,88,IV,88,Uruguay
+29,176635,Mesut Özil,Deutschland,88,ZOM LM,88,Deutschland
+30,167664,Gonzalo Higuaín,Argentinien,88,ST,88,Argentinien
+35,120533,Pepe,Portugal,88,IV,88,Portugal
+40,1179,Gianluigi Buffon,Italien,88,TW,88,Italien
+24,211110,Paulo Dybala,Argentinien,87,ZOM ST,92,Argentinien
+24,202126,Harry Kane,England,87,ST,91,England
+27,198710,James Rodríguez,Kolumbien,87,ZOM,89,Kolumbien
+26,192448,Marc-André ter Stegen,Deutschland,87,TW,90,Deutschland
+29,189511,Sergio Busquets,Spanien,87,ZDM ZM,87,Spanien
+29,187961,Paulinho,Brasilien,87,ZM ZDM,87,Brasilien
+29,184941,Alexis Sánchez,Chile,87,LF ST,87,Chile
+29,183907,Jérôme Boateng,Deutschland,87,IV,87,Deutschland
+30,176676,Marcelo,Brasilien,87,LV,87,Brasilien
+33,168609,Miranda,Brasilien,87,IV,87,Brasilien
+32,168542,David Silva,Spanien,87,RF LF,87,Spanien
+31,167948,Hugo Lloris,Frankreich,87,TW,87,Frankreich
+30,153079,Sergio Agüero,Argentinien,87,ST,87,Argentinien
+31,152729,Piqué,Spanien,87,IV,87,Spanien
+34,41,Iniesta,Spanien,87,ZM LM,87,Spanien
+26,200145,Casemiro,Brasilien,86,ZDM,90,Brasilien
+26,197781,Isco,Spanien,86,LF ZOM RF,88,Spanien
+25,195864,Paul Pogba,Frankreich,86,ZM ZDM,91,Frankreich
+31,193041,Keylor Navas,Costa Rica,86,TW,86,Costa Rica
+25,192505,Romelu Lukaku,Belgien,86,ST,90,Belgien
+30,192366,Nicolás Otamendi,Argentinien,86,IV,86,Argentinien
+30,190547,Kamil Glik,Polen,86,IV,86,Polen
+28,189596,Thomas Müller,Deutschland,86,RM MS ST,86,Deutschland
+31,181872,Arturo Vidal,Chile,86,ZDM ZM,86,Chile
+31,175943,Dries Mertens,Belgien,86,MS ST,86,Belgien
+30,168651,Ivan Rakitić,Kroatien,86,ZM ZDM,86,Kroatien
+33,164240,Thiago Silva,Brasilien,86,IV,86,Brasilien
+35,146530,Dani Alves,Brasilien,86,RV,86,Brasilien
+33,138956,Giorgio Chiellini,Italien,86,IV,86,Italien
+19,231747,Kylian Mbappé,Frankreich,85,ST RM RF,94,Frankreich
+21,230666,Gabriel Jesus,Brasilien,85,ST,92,Brasilien
+23,212622,Joshua Kimmich,Deutschland,85,RV ZM,89,Deutschland
+22,212188,Timo Werner,Deutschland,85,ST,88,Deutschland
+33,20801,Cristiano Ronaldo,Portugal,95,ST LM,95,Portugal
+31,158023,Lionel Messi,Argentinien,94,RF MS ZOM,94,Argentinien
+26,190871,Neymar,Brasilien,93,LF,94,Brasilien
+29,188545,Robert Lewandowski,Polen,92,ST,92,Polen
+27,193080,De Gea,Spanien,91,TW,93,Spanien
+31,176580,Luis Suárez,Uruguay,91,ST,91,Uruguay
+32,167495,Manuel Neuer,Deutschland,91,TW,91,Deutschland
+27,192985,Kevin De Bruyne,Belgien,90,ZM ZOM MS,92,Belgien
+27,183277,Eden Hazard,Belgien,90,MS,91,Belgien
+28,182521,Toni Kroos,Deutschland,90,ZM ZDM,90,Deutschland
+29,178603,Mats Hummels,Deutschland,90,IV,90,Deutschland
+32,155862,Sergio Ramos,Spanien,90,IV,90,Spanien
+27,194765,Antoine Griezmann,Frankreich,89,MS ST,89,Frankreich
+26,190460,Christian Eriksen,Dänemark,89,ZOM RM LM ZM,90,Dänemark
+31,179813,Edinson Cavani,Uruguay,89,ST,89,Uruguay
+32,177003,Luka Modrić,Kroatien,89,ZM ZDM ZOM,89,Kroatien
+28,173731,Gareth Bale,Wales,89,RF ST LF,89,Wales
+27,215914,N'Golo Kanté,Frankreich,88,ZDM ZM,90,Frankreich
+26,209331,Mohamed Salah,Ägypten,88,RM,91,Ägypten
+26,192119,Thibaut Courtois,Belgien,88,TW,91,Belgien
+27,189509,Thiago,Spanien,88,ZM ZOM,88,Spanien
+26,189242,Coutinho,Brasilien,88,RF,91,Brasilien
+32,182493,Diego Godín,Uruguay,88,IV,88,Uruguay
+29,176635,Mesut Özil,Deutschland,88,ZOM LM,88,Deutschland
+30,167664,Gonzalo Higuaín,Argentinien,88,ST,88,Argentinien
+35,120533,Pepe,Portugal,88,IV,88,Portugal
+40,1179,Gianluigi Buffon,Italien,88,TW,88,Italien
+24,211110,Paulo Dybala,Argentinien,87,ZOM ST,92,Argentinien
+24,202126,Harry Kane,England,87,ST,91,England
+27,198710,James Rodríguez,Kolumbien,87,ZOM,89,Kolumbien
+24,207865,Marquinhos,Brasilien,85,IV,90,Brasilien
+24,205600,Samuel Umtiti,Frankreich,85,IV,89,Frankreich
+25,201535,Raphaël Varane,Frankreich,85,IV,90,Frankreich
+25,201399,Mauro Icardi,Argentinien,85,ST,89,Argentinien
+25,199556,Marco Verratti,Italien,85,ZM ZDM,88,Italien
+27,198219,Lorenzo Insigne,Italien,85,LF,86,Italien
+26,197445,David Alaba,Österreich,85,ZM ZOM LV,87,Österreich
+26,193747,Koke,Spanien,85,ZM RM LM,88,Spanien
+29,189332,Jordi Alba,Spanien,85,LV,85,Spanien
+29,188350,Marco Reus,Deutschland,85,LM ST ZOM,85,Deutschland
+28,184484,Gylfi Sigurðsson,Island,85,ZM ZOM,85,Island
+30,183898,Ángel Di María,Argentinien,85,LF RF ZOM,85,Argentinien
+29,181458,Ivan Perišić,Kroatien,85,LM ZOM LF,85,Kroatien
+29,180403,Willian,Brasilien,85,RF,85,Brasilien
+31,179846,Sami Khedira,Deutschland,85,ZDM ZM,85,Deutschland
+30,178005,Rui Patrício,Portugal,85,TW,85,Portugal
+31,177509,Medhi Benatia,Marokko,85,IV,85,Marokko
+31,170890,Blaise Matuidi,Frankreich,85,ZDM ZM,85,Frankreich
+30,169195,Renato Augusto,Brasilien,85,ZOM ZM,85,Brasilien
+32,165229,Laurent Koscielny,Frankreich,85,IV,85,Frankreich
+32,164169,Filipe Luís,Brasilien,85,LV,85,Brasilien
+22,220834,Marco Asensio,Spanien,84,LF,92,Spanien
+23,218667,Bernardo Silva,Portugal,84,RM,90,Portugal
+22,213565,Thomas Lemar,Frankreich,84,LM,90,Frankreich
+25,212831,Alisson,Brasilien,84,TW,88,Brasilien
+25,212814,João Mário,Portugal,84,LM ZM RM,86,Portugal
+22,212190,Niklas Süle,Deutschland,84,IV,89,Deutschland
+23,209658,Leon Goretzka,Deutschland,84,ZM ZOM ZDM,88,Deutschland
+26,208722,Sadio Mané,Senegal,84,RF LF ZOM,85,Senegal
+26,207566,William Carvalho,Portugal,84,ZDM ZM,87,Portugal
+26,204963,Carvajal,Spanien,84,RV,87,Spanien
+24,202166,Julian Draxler,Deutschland,84,LM ZOM,87,Deutschland
+26,201942,Roberto Firmino,Brasilien,84,ST,87,Brasilien
+27,201024,Kalidou Koulibaly,Senegal,84,IV,87,Senegal
+26,192563,Bernd Leno,Deutschland,84,TW,87,Deutschland
+28,192387,Ciro Immobile,Italien,84,ST,84,Italien
+29,191202,Nemanja Matić,Serbien,84,ZDM ZM,84,Serbien
+27,191043,Alex Sandro,Brasilien,84,LV,85,Brasilien
+27,186942,İlkay Gündoğan,Deutschland,84,ZM ZDM,85,Deutschland
+29,184826,Adrien Silva,Portugal,84,ZM ZDM,84,Portugal
+31,184344,Leonardo Bonucci,Italien,84,IV,84,Italien
+29,184087,Toby Alderweireld,Belgien,84,IV,85,Belgien
+31,179944,David Luiz,Brasilien,84,IV,84,Brasilien
+29,179844,Diego Costa,Spanien,84,ST,84,Spanien
+31,178509,Olivier Giroud,Frankreich,84,ST,84,Frankreich
+31,177388,Dimitri Payet,Frankreich,84,LM ZOM LF,84,Frankreich
+33,173771,Łukasz Piszczek,Polen,84,RV IV,84,Polen
+31,172871,Jan Vertonghen,Belgien,84,IV,84,Belgien
+32,167397,Falcao,Kolumbien,84,ST,84,Kolumbien
+33,163705,Steve Mandanda,Frankreich,84,TW,84,Frankreich
+31,162347,João Moutinho,Portugal,84,ZM,84,Portugal
+30,143076,Alejandro Gómez,Argentinien,84,LF ZOM,84,Argentinien
+32,139720,Vincent Kompany,Belgien,84,IV,84,Belgien
+33,135507,Fernandinho,Brasilien,84,ZDM ZM,84,Brasilien
+21,231443,Ousmane Dembélé,Frankreich,83,RM LM RF,92,Frankreich
+23,223848,Sergej Milinković-Savić,Serbien,83,ZM ZOM,89,Serbien
+22,222492,Leroy Sané,Deutschland,83,LM RM,88,Deutschland
+23,219683,Corentin Tolisso,Frankreich,83,ZM ZDM,89,Frankreich
+24,216594,Nabil Fekir,Frankreich,83,ZOM ST,87,Frankreich
+23,216460,José María Giménez,Uruguay,83,IV,87,Uruguay
+22,211300,Anthony Martial,Frankreich,83,LM ST,90,Frankreich
+22,211117,Dele Alli,England,83,ZOM ST,89,England
+24,210257,Ederson,Brasilien,83,TW,87,Brasilien
+24,209499,Fabinho,Brasilien,83,ZDM,88,Brasilien
+27,208618,Lucas Vázquez,Spanien,83,RF,84,Spanien
+26,208448,Emil Forsberg,Schweden,83,ZOM LM,85,Schweden
+25,205452,Antonio Rüdiger,Deutschland,83,IV RV,87,Deutschland
+27,203376,Virgil van Dijk,Niederlande,83,IV,86,Niederlande
+23,202652,Raheem Sterling,England,83,ZOM ST,87,England
+25,201153,Morata,Spanien,83,ST,87,Spanien
+26,200888,Danilo Pereira,Portugal,83,ZDM IV,86,Portugal
+26,200104,Son Heung Min,"Korea, Republik",83,ST LM RM,86,"Korea, Rep."
+27,198329,Rodrigo,Spanien,83,ST RF LF,83,Spanien
+27,193301,Alexandre Lacazette,Frankreich,83,ST,86,Frankreich
+30,192629,Iago Aspas,Spanien,83,ST,83,Spanien
+33,192593,Danijel Subašić,Kroatien,83,TW,83,Kroatien
+26,192318,Mario Götze,Deutschland,83,ZOM MS,86,Deutschland
+28,191740,Ander Herrera,Spanien,83,ZM ZDM,83,Spanien
+29,191180,Javier Pastore,Argentinien,83,ZM LF RF,83,Argentinien
+27,190483,Douglas Costa,Brasilien,83,RF LF,83,Brasilien
+31,189362,Hulk,Brasilien,83,RF ST,83,Brasilien
+28,188377,Kyle Walker,England,83,RAV IV,84,England
+26,188152,Oscar,Brasilien,83,ZOM ZM,84,Brasilien
+29,187936,Steven N'Zonzi,Frankreich,83,ZDM ZM,83,Frankreich
+28,186153,Wojciech Szczęsny,Polen,83,TW,85,Polen
+28,184942,Giuliano,Brasilien,83,ZOM ZM,84,Brasilien
+28,184432,Azpilicueta,Spanien,83,RV,83,Spanien
+32,181783,Mario Mandžukić,Kroatien,83,ST LM,83,Kroatien
+29,177683,Yann Sommer,Schweiz,83,TW,84,Schweiz
+29,177610,Javi Martínez,Spanien,83,ZDM,83,Spanien
+29,177413,Axel Witsel,Belgien,83,ZM,83,Belgien
+30,172879,Sokratis,Griechenland,83,IV,83,Griechenland
+31,163587,Kasper Schmeichel,Dänemark,83,TW,83,Dänemark
+37,106231,Aduriz,Spanien,83,ST,83,Spanien
+35,24630,Pepe Reina,Spanien,83,TW,83,Spanien
+34,20775,Quaresma,Portugal,83,RM LM,83,Portugal
+19,230621,Gianluigi Donnarumma,Italien,82,TW,93,Italien
+22,228941,André Silva,Portugal,82,ST,90,Portugal
+22,225850,Presnel Kimpembe,Frankreich,82,IV,88,Frankreich
+22,220793,Davinson Sánchez,Kolumbien,82,IV,89,Kolumbien
+22,213661,Andreas Christensen,Dänemark,82,IV ZDM,90,Dänemark
+22,213345,Kingsley Coman,Frankreich,82,LM RM,87,Frankreich
+24,212218,Aymeric Laporte,Frankreich,82,IV,87,Frankreich
+24,211575,André Gomes,Portugal,82,ZM LM RM,88,Portugal
+24,210406,Piotr Zieliński,Polen,82,ZM,88,Polen
+23,210008,Adrien Rabiot,Frankreich,82,ZM ZDM,86,Frankreich
+24,208596,Andrea Belotti,Italien,82,ST,88,Italien
+23,208421,Saúl,Spanien,82,ZM RM LM,90,Spanien
+24,208418,Yannick Carrasco,Belgien,82,LM,86,Belgien
+24,208333,Emre Can,Deutschland,82,ZDM ZM RV,86,Deutschland
+31,207664,Carlos Bacca,Kolumbien,82,ST,82,Kolumbien
+24,206652,Sergio Rico,Spanien,82,TW,87,Spanien
+23,206585,Kepa,Spanien,82,TW,88,Spanien
+25,204970,Florian Thauvin,Frankreich,82,RM,85,Frankreich
+27,204525,Iñigo Martínez,Spanien,82,IV,86,Spanien
+27,203551,Alessandro Florenzi,Italien,82,RV RF ZM,82,Italien
+24,202651,Suso,Spanien,82,RF,87,Spanien
+25,200949,Lucas,Brasilien,82,RF LF,84,Brasilien
+28,200724,Nacho Fernández,Spanien,82,IV RV LV,84,Spanien
+25,199503,Granit Xhaka,Schweiz,82,ZM ZDM,85,Schweiz
+27,199482,Anthony Lopes,Portugal,82,TW,84,Portugal
+26,198176,Stefan de Vrij,Niederlande,82,IV,85,Niederlande
+28,198164,Jonathan Viera,Spanien,82,ZM ZOM,82,Spanien
+26,193348,Xherdan Shaqiri,Schweiz,82,RM,83,Schweiz
+30,193082,Juan Cuadrado,Kolumbien,82,RM,82,Kolumbien
+27,192774,Kostas Manolas,Griechenland,82,IV,84,Griechenland
+26,192227,Shkodran Mustafi,Deutschland,82,IV,84,Deutschland
+30,189505,Pedro,Spanien,82,LF RF,82,Spanien
+29,189358,Shinji Kagawa,Japan,82,ZOM MS,82,Japan
+27,189117,Roman Bürki,Schweiz,82,TW,84,Schweiz
+28,188943,Kevin Trapp,Deutschland,82,TW,83,Deutschland
+30,188803,Taison,Brasilien,82,LF,82,Brasilien
+28,187491,Fedor Smolov,Russland,82,ST,82,Russland
+29,187072,Lars Stindl,Deutschland,82,MS ZOM ST,82,Deutschland
+27,186561,Aaron Ramsey,Wales,82,ZM LF,83,Wales
+31,185020,José Callejón,Spanien,82,RF,82,Spanien
+32,183280,Adil Rami,Frankreich,82,IV,82,Frankreich
+32,182494,Fernando Muslera,Uruguay,82,TW,82,Uruguay
+27,181291,Georginio Wijnaldum,Niederlande,82,ZM,83,Niederlande
+31,179847,Federico Fazio,Argentinien,82,IV,82,Argentinien
+30,179784,Benedikt Höwedes,Deutschland,82,IV RV LV,82,Deutschland
+30,178562,Éver Banega,Argentinien,82,ZM ZOM,82,Argentinien
+34,178372,Branislav Ivanović,Serbien,82,IV RV,82,Serbien
+30,178088,Juan Mata,Spanien,82,RF ZOM,82,Spanien
+32,177604,Nacho Monreal,Spanien,82,LV IV,82,Spanien
+31,173373,Sergio Romero,Argentinien,82,TW,82,Argentinien
+34,171791,José Fonte,Portugal,82,IV,82,Portugal
+28,169595,Danny Rose,England,82,LAV,83,England
+33,164835,Łukasz Fabiański,Polen,82,TW,82,Polen
+30,162240,Moussa Dembélé,Belgien,82,ZM,82,Belgien
+32,158963,Lucas Biglia,Argentinien,82,ZDM ZM,82,Argentinien
+31,139068,Nani,Portugal,82,LM RM,82,Portugal
+36,113422,David Villa,Spanien,82,ST LF,82,Spanien
+33,104389,Rune Almenning Jarstein,Norwegen,82,TW,82,Norwegen
+20,231677,Marcus Rashford,England,81,ST,89,England
+24,227928,Nélson Semedo,Portugal,81,RV,87,Portugal
+23,227055,Gelson Martins,Portugal,81,RM LM,88,Portugal
+22,221992,Hirving Lozano,Mexiko,81,LF RF,87,Mexiko
+22,213331,Jonathan Tah,Deutschland,81,IV,87,Deutschland
+23,212198,Bruno Fernandes,Portugal,81,ZOM ZM,87,Portugal
+22,212194,Julian Brandt,Deutschland,81,LM RM,87,Deutschland
+23,211320,Daniele Rugani,Italien,81,IV,88,Italien
+25,209297,Fred,Brasilien,81,ZM ZDM,86,Brasilien
+31,208830,Jamie Vardy,England,81,ST,81,England
+25,208670,Hakim Ziyach,Marokko,81,LM ZOM,83,Marokko
+28,208334,Jonas Hector,Deutschland,81,LV,82,Deutschland
+24,207410,Mateo Kovačić,Kroatien,81,ZM ZDM,87,Kroatien
+26,205498,Jorginho,Italien,81,ZM,84,Italien
+24,204529,Michy Batshuayi,Belgien,81,ST,86,Belgien
+25,203042,Jack Butland,England,81,TW,87,England
+24,202556,Memphis Depay,Niederlande,81,MS ST LF,86,Niederlande
+26,202371,Thomas Meunier,Belgien,81,RM,82,Belgien
+28,201862,Marcos Rojo,Argentinien,81,IV LV,82,Argentinien
+26,201118,Cédric,Portugal,81,RV,83,Portugal
+29,199987,Jasper Cillessen,Niederlande,81,TW,83,Niederlande
+28,199715,Vitolo,Spanien,81,RF,81,Spanien
+26,199564,Sergi Roberto,Spanien,81,RV ZDM ZM,82,Spanien
+27,198141,Bartra,Spanien,81,IV RV,83,Spanien
+25,198009,Mattia Perin,Italien,81,TW,86,Italien
+28,197965,Pizzi,Portugal,81,ZM RM,81,Portugal
+27,197655,Sebastián Coates,Uruguay,81,IV,83,Uruguay
+26,194957,Phil Jones,England,81,IV,82,England
+30,193532,Gary Medel,Chile,81,ZDM IV,81,Chile
+27,193525,Mário Fernandes,Russland,81,RV RM,81,Russland
+25,193352,Ricardo Rodríguez,Schweiz,81,LV IV,84,Schweiz
+25,193165,Jesús Corona,Mexiko,81,LF RF,83,Mexiko
+28,190815,Daley Blind,Niederlande,81,IV LAV ZM,81,Niederlande
+28,190584,Illarramendi,Spanien,81,ZDM,81,Spanien
+28,189251,Sebastian Rudy,Deutschland,81,ZM ZDM RV,81,Deutschland
+28,189125,Giacomo Bonaventura,Italien,81,ZM,81,Italien
+25,188988,Manuel Lanzini,Argentinien,81,ZOM LM,86,Argentinien
+28,187735,Alan Dzagoev,Russland,81,ZM ZDM LM MS,82,Russland
+30,185221,Luiz Gustavo,Brasilien,81,ZDM ZM,81,Brasilien
+29,184200,Marko Arnautović,Österreich,81,ST LM RM,81,Österreich
+29,183376,Ljubomir Fejsa,Serbien,81,ZDM ZM,81,Serbien
+29,180216,Séamus Coleman,Republik Irland,81,RV,81,Irland
+30,178224,Javier Hernández,Mexiko,81,ST LF,81,Mexiko
+30,176944,Marouane Fellaini,Belgien,81,ZM,81,Belgien
+31,176733,Marcus Berg,Schweden,81,ST MS,81,Schweden
+31,176600,Kévin Gameiro,Frankreich,81,ST,81,Frankreich
+31,171897,Andrés Guardado,Mexiko,81,ZM ZDM,81,Mexiko
+30,169588,Jonny Evans,Nordirland,81,IV,81,Nordirland
+29,169416,Carlos Vela,Mexiko,81,RF ST,81,Mexiko
+32,164468,Gary Cahill,England,81,IV,81,England
+33,156713,Andreas Granqvist,Schweden,81,IV,81,Schweden
+32,153244,André-Pierre Gignac,Frankreich,81,ST,81,Frankreich
+34,150525,Paolo Guerrero,Peru,81,ST,81,Peru
+33,150418,Mario Gómez,Deutschland,81,ST,81,Deutschland
+34,142754,Javier Mascherano,Argentinien,81,ZDM ZM IV,81,Argentinien
+34,108080,Stephan Lichtsteiner,Schweiz,81,RV RM,81,Schweiz
+22,222028,Julian Weigl,Deutschland,80,ZDM ZM,86,Deutschland
+22,220746,Andrija Živković,Serbien,80,LM ZOM,88,Serbien
+23,219809,Tiémoué Bakayoko,Frankreich,80,ZDM ZM,86,Frankreich
+27,216354,Andrej Kramarić,Kroatien,80,ST LF ZOM,82,Kroatien
+25,216352,Marcelo Brozović,Kroatien,80,ZM ZDM,84,Kroatien
+25,215792,Jemerson,Brasilien,80,IV,85,Brasilien
+23,215785,Keita Baldé,Senegal,80,LF ST,88,Senegal
+26,215316,Gerónimo Rulli,Argentinien,80,TW,86,Argentinien
+23,214997,Ángel Correa,Argentinien,80,ST RF,87,Argentinien
+26,213051,Mohamed Elneny,Ägypten,80,ZDM,84,Ägypten
+25,211748,Kerem Demirbay,Deutschland,80,ZOM ZM,84,Deutschland
+23,211368,Bruma,Portugal,80,LM RM ZOM,86,Portugal
+24,210243,Ricardo Pereira,Portugal,80,RV RM,85,Portugal
+24,209889,Raphaël Guerreiro,Portugal,80,LV,85,Portugal
+26,208808,Quincy Promes,Niederlande,80,MS ST RF,81,Niederlande
+24,207862,Matthias Ginter,Deutschland,80,IV,84,Deutschland
+25,207494,Jesse Lingard,England,80,ZOM,83,England
+24,207439,Leandro Paredes,Argentinien,80,ZM ZDM,85,Argentinien
+23,206113,Serge Gnabry,Deutschland,80,LM RM,86,Deutschland
+25,205923,Ben Davies,Wales,80,IV LAV,83,Wales
+24,205175,Arkadiusz Milik,Polen,80,ST,87,Polen
+24,204935,Jordan Pickford,England,80,TW,87,England
+24,204923,Marcel Sabitzer,Österreich,80,ZOM ST,83,Österreich
+23,204884,Benjamin Mendy,Frankreich,80,LV,87,Frankreich
+25,204082,John Brooks,USA,80,IV,85,USA
+26,203890,Šime Vrsaljko,Kroatien,80,RV LV,81,Kroatien
+24,203574,John Stones,England,80,IV,86,England
+28,202857,Karim Bellarabi,Deutschland,80,RM,80,Deutschland
+24,202335,Eric Dier,England,80,ZDM ZM,83,England
+25,201455,Geoffrey Kondogbia,Frankreich,80,ZDM ZM,84,Frankreich
+26,201377,Jeison Murillo,Kolumbien,80,IV,84,Kolumbien
+27,201305,Gabriel Paulista,Brasilien,80,IV RV,82,Brasilien
+25,201042,Djibril Sidibé,Frankreich,80,RV LV,83,Frankreich
+31,199827,Pablo Hernández,Chile,80,ZM ZOM ZDM,80,Chile
+27,199110,Luis Muriel,Kolumbien,80,ST,81,Kolumbien
+29,199042,Charles Aránguiz,Chile,80,ZM ZDM,80,Chile
+28,197242,Grzegorz Krychowiak,Polen,80,ZDM ZM,81,Polen
+29,195586,Alfreð Finnbogason,Island,80,ST,80,Island
+29,195086,Dejan Lovren,Kroatien,80,IV,82,Kroatien
+28,193738,Younès Belhanda,Marokko,80,ZM ZOM,80,Marokko
+25,193105,Alphonse Areola,Frankreich,80,TW,84,Frankreich
+27,193061,Roberto Pereyra,Argentinien,80,ZM ZOM,80,Argentinien
+27,192086,Alexandr Kokorin,Russland,80,ST RM,80,Russland
+28,190972,Eduardo Salvio,Argentinien,80,RF,80,Argentinien
+27,190778,Jeroen Zoet,Niederlande,80,TW,83,Niederlande
+28,189881,Chris Smalling,England,80,IV,81,England
+28,189712,Kevin Strootman,Niederlande,80,ZM,80,Niederlande
+27,186345,Kieran Trippier,England,80,RAV,81,England
+32,185103,Aleksandar Kolarov,Serbien,80,LV LM,80,Serbien
+27,184111,Christian Benteke,Belgien,80,ST,81,Belgien
+28,183711,Jordan Henderson,England,80,ZDM ZM,82,England
+33,183498,Marco Parolo,Italien,80,ZM ZDM,80,Italien
+32,181786,Vedran Ćorluka,Kroatien,80,IV,80,Kroatien
+30,180819,Adam Lallana,England,80,ZM,80,England
+29,179645,Simon Kjær,Dänemark,80,IV,81,Dänemark
+32,176915,Augusto Fernández,Argentinien,80,ZM,80,Argentinien
+35,174543,Claudio Bravo,Chile,80,TW,80,Chile
+30,173432,Héctor Moreno,Mexiko,80,IV,80,Mexiko
+30,173426,Simon Mignolet,Belgien,80,TW,80,Belgien
+27,172962,Victor Moses,Nigeria,80,RM LM RAV,80,Nigeria
+29,172522,Daniel Wass,Dänemark,80,ZM ZOM,80,Dänemark
+28,171833,Daniel Sturridge,England,80,ST,80,England
+30,170815,Steven Defour,Belgien,80,ZM,80,Belgien
+28,170370,Jonathan dos Santos,Mexiko,80,ZM,80,Mexiko
+33,162329,Karim El Ahmadi,Marokko,80,ZDM,80,Marokko
+33,159065,Ezequiel Lavezzi,Argentinien,80,LF RF,80,Argentinien
+33,158133,Jefferson Farfán,Peru,80,ST RM,80,Peru
+31,158121,Benoît Costil,Frankreich,80,TW,80,Frankreich
+32,157304,Thomas Vermaelen,Belgien,80,IV,80,Belgien
+38,157271,Ricardo Oliveira,Brasilien,80,ST,80,Brasilien
+28,156519,Héctor Herrera,Mexiko,80,ZM,80,Mexiko
+32,148119,Igor Akinfeev,Russland,80,TW,80,Russland
+33,147621,Alexandr Samedov,Russland,80,RM,80,Russland
+22,234035,Odriozola,Spanien,79,RV,88,Spanien
+19,227796,Christian Pulisic,USA,79,ZOM RM LM,89,USA
+21,226790,Onyinye Ndidi,Nigeria,79,ZDM,86,Nigeria
+22,225663,Alexandr Golovin,Russland,79,ZM ZOM ZDM,87,Russland
+26,224334,Marcos Acuña,Argentinien,79,LF,80,Argentinien
+23,221660,Victor Lindelöf,Schweden,79,IV,86,Schweden
+22,220814,Lucas Hernández,Frankreich,79,LV IV,89,Frankreich
+26,219985,Matias Vecino,Uruguay,79,ZDM ZM,82,Uruguay
+21,216393,Youri Tielemans,Belgien,79,ZM,88,Belgien
+26,216150,Davide Zappacosta,Italien,79,RV,83,Italien
+25,215259,Emiliano Rigoni,Argentinien,79,RF LF,81,Argentinien
+22,214092,Alexey Miranchuk,Russland,79,ZOM ST MS,86,Russland
+23,213955,Sardar Azmoun,Iran,79,ST,87,IR Iran
+25,211256,Nicolás Tagliafico,Argentinien,79,LV IV,85,Argentinien
+24,210514,João Cancelo,Portugal,79,RV,86,Portugal
+24,208128,Hakan Çalhanoğlu,Türkei,79,LM ZM RM,83,Türkei
+25,205362,Matija Nastasić,Serbien,79,IV,83,Serbien
+27,204838,Raúl Jiménez,Mexiko,79,ST,81,Mexiko
+30,204341,Luís Neto,Portugal,79,IV,79,Portugal
+23,204311,Kurt Zouma,Frankreich,79,IV RV,86,Frankreich
+26,204259,Santiago Arias,Kolumbien,79,RV,81,Kolumbien
+25,203486,Thorgan Hazard,Belgien,79,MS,83,Belgien
+27,203299,André Carrillo,Peru,79,RM,80,Peru
+25,203263,Harry Maguire,England,79,IV,84,England
+25,201510,Layvin Kurzawa,Frankreich,79,LV,82,Frankreich
+32,201325,Ciprian Tătăruşanu,Rumänien,79,TW,79,Rumänien
+25,200610,Kevin Volland,Deutschland,79,ST,81,Deutschland
+28,200529,Nacer Chadli,Belgien,79,LM RM,79,Belgien
+24,200458,Lucas Digne,Frankreich,79,LV,84,Frankreich
+24,200454,Paco Alcácer,Spanien,79,ST,85,Spanien
+27,199852,Nicolai Jørgensen,Dänemark,79,ST,80,Dänemark
+29,199434,Dušan Tadić,Serbien,79,RM RF ZOM,79,Serbien
+27,199304,Danilo,Brasilien,79,RV,81,Brasilien
+24,199189,Ross Barkley,England,79,ZOM ZM,83,England
+26,196889,Simone Verdi,Italien,79,RF,81,Italien
+29,193584,Guido Burgstaller,Österreich,79,ST LF,79,Österreich
+26,193158,Davy Pröpper,Niederlande,79,ZM ZOM,82,Niederlande
+27,193130,André Schürrle,Deutschland,79,LM ST,79,Deutschland
+27,192991,Cenk Tosun,Türkei,79,ST,81,Türkei
+27,191076,Jóhann Berg Guðmundsson,Island,79,RM ZOM,79,Island
+26,190544,Adem Ljajić,Serbien,79,LM ZOM,80,Serbien
+27,190456,Nathaniel Clyne,England,79,RAV,79,England
+30,190243,Marwin Hitz,Schweiz,79,TW,79,Schweiz
+26,189461,Jack Wilshere,England,79,ZM ZOM,81,England
+31,187366,Denis Glushakov,Russland,79,ZDM ZM,79,Russland
+27,186146,Danny Welbeck,England,79,ST,80,England
+30,185431,Nikola Kalinić,Kroatien,79,ST,79,Kroatien
+32,184949,Mariano,Brasilien,79,RV,79,Brasilien
+28,184716,Joe Allen,Wales,79,ZM,79,Wales
+28,184392,Matteo Darmian,Italien,79,LV RV,79,Italien
+28,183427,Fabian Delph,England,79,LAV ZM,79,England
+28,183394,Moussa Sissoko,Frankreich,79,RM ZM ZOM,79,Frankreich
+30,176285,Winston Reid,Neuseeland,79,IV,79,Neuseeland
+31,173306,Cristian Ansaldi,Argentinien,79,LV,79,Argentinien
+31,173221,Antonio Candreva,Italien,79,RF RM ZOM,79,Italien
+30,171688,Fábio Coentrão,Portugal,79,LV,79,Portugal
+29,170369,Giovani dos Santos,Mexiko,79,ZOM ZM,79,Mexiko
+28,169705,Ryan Bertrand,England,79,LAV,79,England
+32,157960,Manuel Fernandes,Portugal,79,ZM ZOM,79,Portugal
+31,157301,Ryan Babel,Niederlande,79,ST LF,79,Niederlande
+33,152908,Ashley Young,England,79,LAV RAV,79,England
+33,151508,Steven Davis,Nordirland,79,ZM ZDM,79,Nordirland
+31,143745,Arda Turan,Türkei,79,LM ZOM RM,79,Türkei
+33,140233,Guillermo Ochoa,Mexiko,79,TW,79,Mexiko
+36,139062,Willy Caballero,Argentinien,79,TW,79,Argentinien
+35,134744,Atiba Hutchinson,Kanada,79,ZDM ZM,79,Kanada
+34,2492,Eliseu,Portugal,79,LV,79,Portugal
+18,235243,Matthijs de Ligt,Niederlande,78,IV,89,Niederlande
+20,230767,Renato Sanches,Portugal,78,ZM,87,Portugal
+26,229909,Andrey Lunev,Russland,78,TW,80,Russland
+22,226851,Benjamin Pavard,Frankreich,78,RV IV,84,Frankreich
+24,226537,Vincent Janssen,Niederlande,78,ST,83,Niederlande
+29,225647,Martín Campaña,Uruguay,78,TW,81,Uruguay
+24,225645,Giorgian De Arrascaeta,Uruguay,78,ZOM LM ZM,83,Uruguay
+21,224411,Gonçalo Guedes,Portugal,78,LM ST RM,88,Portugal
+25,222446,Luan,Brasilien,78,RF ST LF,80,Brasilien
+26,219411,José Izquierdo,Kolumbien,78,LM,80,Kolumbien
+24,216267,Andrew Robertson,Schottland,78,LV LAV,83,Schottland
+27,215333,Duván Zapata,Kolumbien,78,ST,78,Kolumbien
+25,214977,Matías Kranevitter,Argentinien,78,ZDM ZM,85,Argentinien
+26,214692,Christian Cueva,Peru,78,ZOM,79,Peru
+27,214132,Yimmi Chará,Kolumbien,78,RM LM ZOM,78,Kolumbien
+25,213400,Diego Laxalt,Uruguay,78,LM LV,80,Uruguay
+24,213160,Roman Zobnin,Russland,78,ZDM ZM,85,Russland
+23,213135,Divock Origi,Belgien,78,ST MS,85,Belgien
+23,212196,Pione Sisto,Dänemark,78,LF LM RF,86,Dänemark
+24,212153,Roberto Gagliardini,Italien,78,ZDM ZM,85,Italien
+23,211408,Karol Linetty,Polen,78,ZM ZDM,85,Polen
+24,210761,Rodolfo Pizarro,Mexiko,78,ZOM ZM,84,Mexiko
+27,210648,Ahmed Hegazi,Ägypten,78,IV,80,Ägypten
+23,208920,Nathan Aké,Niederlande,78,IV LAV LV,85,Niederlande
+28,208295,Romain Saïss,Marokko,78,IV ZDM,80,Marokko
+28,207939,Guido Pizarro,Argentinien,78,ZDM ZM,78,Argentinien
+25,207599,Michael Keane,England,78,IV,82,England
+24,205966,Amin Younes,Deutschland,78,LM,81,Deutschland
+30,205114,Takashi Inui,Japan,78,LM RM,78,Japan
+26,203841,Nick Pope,England,78,TW,84,England
+23,203362,Mohamed Elyounoussi,Norwegen,78,RM LM ZOM,84,Norwegen
+25,202849,Jannik Vestergaard,Dänemark,78,IV,83,Dänemark
+26,201884,Robbie Brady,Republik Irland,78,LM RM,79,Irland
+27,201508,Gastón Ramírez,Uruguay,78,ZOM RM LM,78,Uruguay
+27,201262,Vladimír Darida,Tschechische Repub.,78,ZM ZDM,79,Tschechien
+29,201144,Milan Badelj,Kroatien,78,ZDM ZM,78,Kroatien
+27,201013,Łukasz Teodorczyk,Polen,78,ST,80,Polen
+29,199206,Domagoj Vida,Kroatien,78,IV RV,78,Kroatien
+24,198784,Alex Oxlade-Chamberlain,England,78,ZM ZOM RAV,82,England
+29,197225,Nicolás Lodeiro,Uruguay,78,RM ZOM MS,78,Uruguay
+25,196934,Oğuzhan Özyakup,Türkei,78,ZM ZDM,83,Türkei
+33,196150,Teófilo Gutiérrez,Kolumbien,78,ST,78,Kolumbien
+27,195202,Tom Cairney,Schottland,78,ZM,79,Schottland
+27,194845,Wahbi Khazri,Tunesien,78,ZOM LM ST RM,78,Tunesien
+28,193474,Idrissa Gueye,Senegal,78,ZM ZDM,78,Senegal
+26,193283,Thomas Delaney,Dänemark,78,ZM ZDM,81,Dänemark
+26,192984,Koen Casteels,Belgien,78,TW,81,Belgien
+26,192557,Marvin Plattenhardt,Deutschland,78,LV,80,Deutschland
+32,192492,Fabián Orellana,Chile,78,ZOM RF LF ZM,78,Chile
+30,190799,Celso Borges,Costa Rica,78,ZDM ZM ZOM,78,Costa Rica
+29,189167,Aron Gunnarsson,Island,78,ZDM ZM,78,Island
+27,188253,James McCarthy,Republik Irland,78,ZDM ZM,79,Irland
+29,187607,Artem Dzyuba,Russland,78,ST,78,Russland
+29,187347,Igor Smolnikov,Russland,78,RV RM,78,Russland
+32,186581,Keisuke Honda,Japan,78,RM ZOM,78,Japan
+31,186537,Cristhian Stuani,Uruguay,78,ST,78,Uruguay
+28,186307,Marco Fabián,Mexiko,78,ZM ZOM RF,78,Mexiko
+28,186132,Danny Drinkwater,England,78,ZM,78,England
+30,183855,Angelo Ogbonna,Italien,78,IV,78,Italien
+33,183497,Orestis Karnezis,Griechenland,78,TW,78,Griechenland
+30,183483,Konstantinos Mitroglou,Griechenland,78,ST,78,Griechenland
+31,183108,Nordin Amrabat,Marokko,78,RM RV,78,Marokko
+36,182629,Beto,Portugal,78,TW,78,Portugal
+32,180714,Guilherme,Russland,78,TW,78,Russland
+31,178424,Antunes,Portugal,78,LV,78,Portugal
+30,178322,Miguel Layún,Mexiko,78,LV RV,78,Mexiko
+31,177983,Cristian Zapata,Kolumbien,78,IV,78,Kolumbien
+30,177159,Fabian Johnson,USA,78,LM RM LV,78,USA
+32,176919,Nahuel Guzmán,Argentinien,78,TW,78,Argentinien
+29,176550,David Ospina,Kolumbien,78,TW,78,Kolumbien
+30,172175,Kevin Mirallas,Belgien,78,MS LM,78,Belgien
+32,170802,Geromel,Brasilien,78,IV,78,Brasilien
+32,167943,Yohan Cabaye,Frankreich,78,ZM ZDM,78,Frankreich
+29,164859,Theo Walcott,England,78,ZOM ST,78,England
+33,163824,Ashley Williams,Wales,78,IV,78,Wales
+34,157492,Jorge Valdivia,Chile,78,ZOM ZM,78,Chile
+35,155897,Clint Dempsey,USA,78,MS ST ZOM,78,USA
+30,155887,Michael Bradley,USA,78,ZDM ZM,78,USA
+33,152789,Diego Souza,Brasilien,78,ST,78,Brasilien
+33,142784,Pablo Zabaleta,Argentinien,78,RV IV,78,Argentinien
+32,138699,Blerim Džemaili,Schweiz,78,ZOM ZM,78,Schweiz
+36,138110,Bruno Alves,Portugal,78,IV,78,Portugal
+32,124635,Mehmet Topal,Türkei,78,IV ZDM,78,Türkei
+35,53914,Phil Jagielka,England,78,IV,78,England
+35,50542,Jermain Defoe,England,78,ST,78,England
+26,236583,Jiří Pavlenka,Tschechische Repub.,77,TW,81,Tschechien
+23,229636,Gastón Pereiro,Uruguay,77,ZOM ZM,82,Uruguay
+23,229593,Marko Pjaca,Kroatien,77,LM ZOM,87,Kroatien
+20,228687,Kasper Dolberg,Dänemark,77,ST,87,Dänemark
+22,228251,Lorenzo Pellegrini,Italien,77,ZM,85,Italien
+25,225028,Nemanja Radoja,Serbien,77,ZDM ZM,82,Serbien
+22,223959,Lucas Torreira,Uruguay,77,ZM ZDM,85,Uruguay
+25,223058,Daler Kuzyaev,Russland,77,ZM ZDM RM,80,Russland
+21,221363,Donny van de Beek,Niederlande,77,ZM,85,Niederlande
+24,220925,Alessandro Schöpf,Österreich,77,RM ZM,82,Österreich
+22,220673,Renato Tapia,Peru,77,ZDM,83,Peru
+23,220523,Yerry Mina,Kolumbien,77,IV,84,Kolumbien
+25,219862,Miguel Borja,Kolumbien,77,ST,80,Kolumbien
+25,216547,Rafa,Portugal,77,LM RM,82,Portugal
+22,216266,Kenny Tete,Niederlande,77,RAV RV,82,Niederlande
+24,215871,Alireza Jahanbakhsh,Iran,77,RM RF,80,IR Iran
+26,215466,Nikola Maksimović,Serbien,77,IV,80,Serbien
+32,215079,Pablo Pérez,Argentinien,77,ZM,77,Argentinien
+31,214584,Franco Armani,Argentinien,77,TW,77,Argentinien
+28,214332,Daniel Torres,Kolumbien,77,ZDM,77,Kolumbien
+27,214040,Frank Fabra,Kolumbien,77,LV,77,Kolumbien
+24,213732,Alexandr Selikhov,Russland,77,TW,82,Russland
+25,213114,Diego Rolán,Uruguay,77,ST LM RM,80,Uruguay
+24,212888,Carlos Salcedo,Mexiko,77,IV RV,81,Mexiko
+23,212501,Leander Dendoncker,Belgien,77,IV ZM ZDM,84,Belgien
+25,210513,Juan Fernando Quintero,Kolumbien,77,ZOM,82,Kolumbien
+25,210259,Ahmed Hassan,Ägypten,77,ST,81,Ägypten
+26,210047,Fabian Schär,Schweiz,77,IV,81,Schweiz
+25,208574,Filip Kostić,Serbien,77,LM LF,79,Serbien
+23,208330,Adnan Januzaj,Belgien,77,MS RM LM,82,Belgien
+25,206058,Mattia De Sciglio,Italien,77,RV LV,81,Italien
+33,205510,Carlos Sánchez,Uruguay,77,RM ZM,77,Uruguay
+27,204614,Mário Rui,Portugal,77,LV,78,Portugal
+31,200798,Marafona,Portugal,77,TW,77,Portugal
+25,199767,Marco van Ginkel,Niederlande,77,ZM,80,Niederlande
+27,199667,Ramiro Funes Mori,Argentinien,77,IV,79,Argentinien
+26,199602,John Guidetti,Schweden,77,ST,80,Schweden
+24,199439,Michael Gregoritsch,Österreich,77,ZOM ST LM,81,Österreich
+28,198584,Kara Mbodji,Senegal,77,IV,78,Senegal
+30,198581,Óscar Murillo,Kolumbien,77,IV,77,Kolumbien
+32,196432,Enzo Pérez,Argentinien,77,ZM ZDM,77,Argentinien
+31,196144,Jackson Martínez,Kolumbien,77,ST,77,Kolumbien
+32,194365,Shinji Okazaki,Japan,77,MS ZOM ST,77,Japan
+27,194201,Pontus Jansson,Schweden,77,IV,79,Schweden
+26,192565,Yunus Mallı,Türkei,77,ZOM LM,79,Türkei
+26,192123,Chris Wood,Neuseeland,77,ST,79,Neuseeland
+25,192012,Diego Reyes,Mexiko,77,IV ZDM,82,Mexiko
+27,189908,Łukasz Skorupski,Polen,77,TW,79,Polen
+27,189805,Luuk de Jong,Niederlande,77,ST,78,Niederlande
+30,189606,Julian Baumgartlinger,Österreich,77,ZDM,77,Österreich
+27,189060,Aleksandar Dragović,Österreich,77,IV,78,Österreich
+29,188524,Volkan Babacan,Türkei,77,TW,77,Türkei
+28,188155,Daryl Janmaat,Niederlande,77,RAV RV,77,Niederlande
+30,187800,Mauricio Isla,Chile,77,RV ZM,77,Chile
+29,187517,Viktor Vasin,Russland,77,IV,78,Russland
+28,186801,Cheikhou Kouyaté,Senegal,77,ZDM IV ZM,77,Senegal
+30,186302,Elías Hernández,Mexiko,77,RF,77,Mexiko
+28,186115,Kieran Gibbs,England,77,LAV,77,England
+26,185422,Joshua King,Norwegen,77,ST MS ZOM,80,Norwegen
+28,185239,Ömer Toprak,Türkei,77,IV,78,Türkei
+26,184477,Kyriakos Papadopoulos,Griechenland,77,IV ZDM,80,Griechenland
+31,183892,Gabriel Mercado,Argentinien,77,RV IV,77,Argentinien
+29,183614,Fagner,Brasilien,77,RV,77,Brasilien
+32,182882,Carlos Sánchez,Kolumbien,77,ZDM,77,Kolumbien
+34,182862,Maximiliano Pereira,Uruguay,77,RV,77,Uruguay
+28,181318,Albin Ekdal,Schweden,77,ZM ZDM IV,77,Schweden
+34,181098,Makoto Hasebe,Japan,77,ZDM,77,Japan
+32,179897,Ragnar Sigurðsson,Island,77,IV,77,Island
+31,177578,Sebastian Prödl,Österreich,77,IV,77,Österreich
+31,176930,Marcelo Díaz,Chile,77,ZM ZDM,77,Chile
+32,176794,Ola Toivonen,Schweden,77,ST MS ZOM,77,Schweden
+28,176237,Jozy Altidore,USA,77,ST,77,USA
+32,172143,Lasse Schøne,Dänemark,77,ZM ZDM,77,Dänemark
+31,167958,Cássio,Brasilien,77,TW,77,Brasilien
+32,164994,Jakub Błaszczykowski,Polen,77,RM RV,77,Polen
+31,164477,John Obi Mikel,Nigeria,77,ZM ZOM ZDM,77,Nigeria
+33,164435,Mbark Boussoufa,Marokko,77,ZM ZOM,77,Marokko
+32,163264,Tom Heaton,England,77,TW,77,England
+32,157678,Laurent Ciman,Belgien,77,IV,77,Belgien
+35,156433,Alfredo Talavera,Mexiko,77,TW,77,Mexiko
+37,156412,José de Jesús Corona,Mexiko,77,TW,77,Mexiko
+31,150724,Joe Hart,England,77,TW,77,England
+33,124607,Selçuk İnan,Türkei,77,ZM ZDM,77,Türkei
+39,112542,Sergey Ignashevich,Russland,77,IV,77,Russland
+38,109852,Gareth McAuley,Nordirland,77,IV,77,Nordirland
+21,239207,Maximiliano Gómez,Uruguay,76,ST,83,Uruguay
+27,239148,Franko Andrijašević,Kroatien,76,ST ZOM,78,Kroatien
+23,236791,Antonín Barák,Tschechische Repub.,76,ZOM,84,Tschechien
+22,236311,Marko Rog,Kroatien,76,ZOM ZM,84,Kroatien
+21,233601,Ramadan Sobhi,Ägypten,76,LM,85,Ägypten
+19,231281,Trent Alexander-Arnold,England,76,RAV,88,England
+22,230965,Nahitan Nández,Uruguay,76,RM ZM,88,Uruguay
+24,229773,Georgiy Dzhikiya,Russland,76,IV,82,Russland
+21,229261,Denis Zakaria,Schweiz,76,ZM ZDM,86,Schweiz
+22,229237,Manuel Akanji,Schweiz,76,IV,84,Schweiz
+26,228717,Yoshinori Mutō,Japan,76,ST,79,Japan
+21,227535,Rodrigo Bentancur,Uruguay,76,ZM,89,Uruguay
+21,226491,Kieran Tierney,Schottland,76,LV RV IV,86,Schottland
+23,226078,Trezeguet,Ägypten,76,LM RM ZOM,82,Ägypten
+28,225701,Pedro Gallese,Peru,76,TW,78,Peru
+29,225359,Constantin Budescu,Rumänien,76,ZOM,76,Rumänien
+22,224254,Cristian Pavón,Argentinien,76,RF RM,85,Argentinien
+21,222357,Breel Embolo,Schweiz,76,ST RM,86,Schweiz
+25,221671,Lee Jae Sung,"Korea, Republik",76,ZM,81,"Korea, Rep."
+21,221491,Nico Elvedi,Schweiz,76,RV IV,83,Schweiz
+27,221000,Badou Ndiaye,Senegal,76,ZM ZDM ZOM,76,Senegal
+23,220854,Erick Gutiérrez,Mexiko,76,ZM,84,Mexiko
+23,220763,Ryan Thomas,Neuseeland,76,ZM ZOM,84,Neuseeland
+24,219740,Kahraba,Ägypten,76,LM ST,80,Ägypten
+30,214605,Alexander Mejía,Kolumbien,76,ZDM,76,Kolumbien
+25,214009,Gustavo Cuéllar,Kolumbien,76,ZDM,82,Kolumbien
+22,213666,Ruben Loftus-Cheek,England,76,ZOM ZM,87,England
+22,213655,Alex Iwobi,Nigeria,76,LM RM ST,85,Nigeria
+25,212878,Nicolás Castillo,Chile,76,ST,81,Chile
+24,212678,Ludwig Augustinsson,Schweden,76,LV,85,Schweden
+24,211381,Sofiane Boufal,Marokko,76,LM RM,79,Marokko
+26,210537,Renato Steffen,Schweiz,76,LM RM ZOM,77,Schweiz
+25,209782,Sam Larsson,Schweden,76,LM LF,79,Schweden
+28,208520,Hiroki Sakai,Japan,76,RV,76,Japan
+30,208379,Giancarlo González,Costa Rica,76,IV,76,Costa Rica
+29,208230,Andreas Samaris,Griechenland,76,ZDM ZM,76,Griechenland
+29,208017,Ivan Santini,Kroatien,76,ST,76,Kroatien
+28,207557,Robin Olsen,Schweden,76,TW,78,Schweden
+27,206304,Luka Milivojević,Serbien,76,ZDM ZM,79,Serbien
+27,206225,Denis Cheryshev,Russland,76,LM,76,Russland
+28,205705,Zouhair Feddal,Marokko,76,IV,76,Marokko
+24,205201,Okay Yokuşlu,Türkei,76,ZDM ZM,82,Türkei
+26,204713,Joel Campbell,Costa Rica,76,RM LM ZOM,79,Costa Rica
+28,204539,Luis Advíncula,Peru,76,RV,76,Peru
+27,204538,Raúl Ruidíaz,Peru,76,ST,77,Peru
+25,203980,Konstantinos Fortounis,Griechenland,76,ZOM RM LM,79,Griechenland
+23,203535,Tonny Vilhena,Niederlande,76,LAV ZM,80,Niederlande
+27,201956,Salif Sané,Senegal,76,IV ZDM,77,Senegal
+25,201922,Martin Hinteregger,Österreich,76,IV,81,Österreich
+26,200478,Jeff Hendrick,Republik Irland,76,ZM ZOM,78,Irland
+26,200260,Steven Berghuis,Niederlande,76,MS ST RF,78,Niederlande
+28,199626,André André,Portugal,76,ZM,76,Portugal
+26,199005,Mathew Ryan,Australien,76,TW,79,Australien
+28,198076,Aymen Abdennour,Tunesien,76,IV LV,78,Tunesien
+32,196147,Giovanni Moreno,Kolumbien,76,ZOM LM RM,76,Kolumbien
+33,196142,Macnelly Torres,Kolumbien,76,ZOM,76,Kolumbien
+37,196073,Esteban Paredes,Chile,76,ST,76,Chile
+27,194958,Aaron Mooy,Australien,76,ZM ZDM,77,Australien
+1,194904,Bill Hamid,USA,76,TW 27,79,
+31,193869,Gil,Brasilien,76,IV,76,Brasilien
+30,193714,Nemanja Pejčinović,Serbien,76,IV,76,Serbien
+26,193408,Haris Seferović,Schweiz,76,ST,77,Schweiz
+28,192350,Javier Aquino,Mexiko,76,LF,76,Mexiko
+26,192041,Néstor Araujo,Mexiko,76,IV,79,Mexiko
+27,190324,Christian Kabasele,Belgien,76,IV,79,Belgien
+26,190059,Steven Zuber,Schweiz,76,LM LV,77,Schweiz
+30,189795,Éder,Portugal,76,ST,76,Portugal
+28,189059,Jake Livermore,England,76,ZM,76,England
+27,188770,Admir Mehmedi,Schweiz,76,LM MS RM ST,76,Schweiz
+27,188166,Matt Phillips,Schottland,76,RM LM ST,76,Schottland
+33,186672,Geoff Cameron,USA,76,IV RV ZDM,76,USA
+29,186521,Bernardo Espinosa,Kolumbien,76,IV,77,Kolumbien
+28,186395,Matt Ritchie,Schottland,76,RM LM,76,Schottland
+29,185195,Odion Ighalo,Nigeria,76,ST,76,Nigeria
+30,185010,Michał Pazdan,Polen,76,IV,76,Polen
+27,184501,Michael Lang,Schweiz,76,RV RM,76,Schweiz
+28,184469,Harry Arter,Republik Irland,76,ZM ZDM,76,Irland
+28,183491,Mathias Jørgensen,Dänemark,76,IV,79,Dänemark
+28,183129,Ciaran Clark,Republik Irland,76,IV,77,Irland
+28,182888,Håvard Nordtveit,Norwegen,76,IV ZDM RV,77,Norwegen
+31,182495,Martín Cáceres,Uruguay,76,LV RV,76,Uruguay
+29,182152,Koo Ja Cheol,"Korea, Republik",76,ZOM ZM RM,76,"Korea, Rep."
+34,181816,Antonio Rukavina,Serbien,76,RV RM,76,Serbien
+28,181383,Jakob Johansson,Schweden,76,ZDM ZM,77,Schweden
+29,180283,Ki Sung Yueng,"Korea, Republik",76,ZM ZDM,76,"Korea, Rep."
+28,179746,Sam Vokes,Wales,76,ST,76,Wales
+30,177922,Kamil Grosicki,Polen,76,LM RM LF,76,Polen
+32,176949,Bryan Ruíz,Costa Rica,76,RM LM ZOM,76,Costa Rica
+30,175789,Birkir Bjarnason,Island,76,LM ZOM ZM RM,76,Island
+31,171896,Hugo Ayala,Mexiko,76,IV,76,Mexiko
+32,171378,Paul Aguilar,Mexiko,76,RV,76,Mexiko
+32,165321,Stephen Ward,Republik Irland,76,LV,76,Irland
+34,158543,Oribe Peralta,Mexiko,76,ST,76,Mexiko
+34,154950,Yuriy Zhirkov,Russland,76,LM LV,76,Russland
+33,143699,Gökhan Gönül,Türkei,76,RV,76,Türkei
+34,133249,Emil Hallfreðsson,Island,76,ZM ZDM,76,Island
+33,124375,Burak Yılmaz,Türkei,76,ST,76,Türkei
+31,105454,Zoran Tošić,Serbien,76,RM,76,Serbien
+39,25420,Claudio Pizarro,Peru,76,ST,76,Peru
+39,16254,Tim Howard,USA,76,TW,76,USA
+37,80,Emre Belözoğlu,Türkei,76,ZM ZDM,76,Türkei
+25,241790,Alireza Beiranvand,Iran,75,TW,81,IR Iran
+21,239818,Rúben Dias,Portugal,75,IV,85,Portugal
+22,234236,Patrik Schick,Tschechische Repub.,75,ST,85,Tschechien
+24,233218,Milad Mohammadi,Iran,75,LV LAV,82,IR Iran
+30,233138,Yu Kobayashi,Japan,75,RM ST LM,75,Japan
+26,232883,Gaku Shibasaki,Japan,75,ZDM ZOM,81,Japan
+20,232270,Timothy Fosu-Mensah,Niederlande,75,IV RAV RV,84,Niederlande
+22,232119,Çağlar Söyüncü,Türkei,75,IV,84,Türkei
+21,232097,Amine Harit,Marokko,75,RM ZM LM,83,Marokko
+22,229712,Jorge,Brasilien,75,LV,83,Brasilien
+22,229270,Mauricio Lemos,Uruguay,75,IV ZDM,81,Uruguay
+21,228579,Benjamin Henrichs,Deutschland,75,RV LV,85,Deutschland
+22,226592,Jakub Jankto,Tschechische Repub.,75,LM ZOM,84,Tschechien
+21,225719,Kelechi Iheanacho,Nigeria,75,ST ZOM,84,Nigeria
+23,225126,Ellyes Skhiri,Tunesien,75,ZDM ZM,81,Tunesien
+22,224574,Orbelín Pineda,Mexiko,75,ZM ZOM,83,Mexiko
+23,223273,Mario Pašalić,Kroatien,75,ZM ZDM,84,Kroatien
+19,222665,Martin Ødegaard,Norwegen,75,LM RM ZOM,87,Norwegen
+29,222134,Tarek Hamed,Ägypten,75,ZDM,75,Ägypten
+28,220932,Lovre Kalinić,Kroatien,75,TW,77,Kroatien
+25,220380,Ramy Rabia,Ägypten,75,IV,81,Ägypten
+24,220018,Ante Rebić,Kroatien,75,LM ST LF,78,Kroatien
+28,216335,Yuriy Gazinskiy,Russland,75,ZDM ZM,75,Russland
+25,216158,Silvan Widmer,Schweiz,75,RV RM,78,Schweiz
+23,215716,Aleksandar Mitrović,Serbien,75,ST,80,Serbien
+25,215699,Youssouf Sabaly,Senegal,75,LV RV,79,Senegal
+24,214394,Wilmar Barrios,Kolumbien,75,ZDM,83,Kolumbien
+28,214169,William Tesillo,Kolumbien,75,IV,76,Kolumbien
+23,213991,Jefferson Lerma,Kolumbien,75,ZDM ZM RV,83,Kolumbien
+22,213648,Pierre-Emile Højbjerg,Dänemark,75,ZM ZDM,81,Dänemark
+29,212772,Óscar Duarte,Costa Rica,75,IV ZDM,75,Costa Rica
+25,212722,DeAndre Yedlin,USA,75,RV,81,USA
+24,212245,Yannick Gerhardt,Deutschland,75,LV,80,Deutschland
+25,212225,Enzo Roco,Chile,75,IV,78,Chile
+29,212067,Camilo Vargas,Kolumbien,75,TW,76,Kolumbien
+27,211124,Paolo Hurtado,Peru,75,RM,75,Peru
+24,210951,Edison Flores,Peru,75,LM,83,Peru
+28,210126,Hiroshi Kiyotake,Japan,75,ZOM RM LM,75,Japan
+28,208949,Nawaf Al Abed,Saudi-Arabien,75,LM RM ZOM,75,Saudi-Arabien
+23,207537,Jordan Lukaku,Belgien,75,LM,79,Belgien
+28,206655,Eduardo Vargas,Chile,75,ST ZOM,75,Chile
+24,206003,Yvon Mvogo,Schweiz,75,TW,82,Schweiz
+25,205257,Naïm Sliti,Tunesien,75,LM LF ST,77,Tunesien
+29,205083,Fayçal Fajr,Marokko,75,RM ZM,75,Marokko
+28,204542,Yoshimar Yotún,Peru,75,ZDM,76,Peru
+29,204120,Tomáš Vaclík,Tschechische Repub.,75,TW,76,Tschechien
+23,204077,M'Baye Niang,Senegal,75,LF ST,82,Senegal
+28,203629,Alexandr Erokhin,Russland,75,ZM ZDM LM ZOM,75,Russland
+26,203605,Pavel Kadeřábek,Tschechische Repub.,75,RV,79,Tschechien
+27,202539,Leigh Griffiths,Schottland,75,ST,76,Schottland
+26,202282,Stuart Armstrong,Schottland,75,ZOM ZM,77,Schottland
+24,202151,Konstantinos Stafylidis,Griechenland,75,LM LV,79,Griechenland
+26,202024,Remo Freuler,Schweiz,75,ZM ZDM,78,Schweiz
+27,201452,Dmitriy Poloz,Russland,75,ST LM MS,78,Russland
+26,201342,Frederik Sørensen,Dänemark,75,IV RV,79,Dänemark
+30,201139,Ivan Strinić,Kroatien,75,LV,75,Kroatien
+27,200630,James Forrest,Schottland,75,RM,76,Schottland
+27,200110,Marco Bizot,Niederlande,75,TW,78,Niederlande
+26,199641,Matz Sels,Belgien,75,TW,78,Belgien
+25,198657,Jonas Svensson,Norwegen,75,RV,79,Norwegen
+25,198504,Josip Drmić,Schweiz,75,ST RM LM,79,Schweiz
+27,197837,Dedryck Boyata,Belgien,75,IV,77,Belgien
+25,195038,Florian Kainz,Österreich,75,LM ZOM ZM MS,77,Österreich
+30,194947,Jagoš Vuković,Serbien,75,IV,75,Serbien
+32,194795,Gonzalo Jara,Chile,75,IV,75,Chile
+27,194079,Alper Potuk,Türkei,75,ZOM LM RM,75,Türkei
+28,193554,Diafra Sakho,Senegal,75,ST,75,Senegal
+27,193290,Martin Braithwaite,Dänemark,75,ZOM ST LM,78,Dänemark
+26,193198,Nemanja Gudelj,Serbien,75,ZM ZDM,77,Serbien
+26,192622,Shane Duffy,Republik Irland,75,IV,80,Irland
+25,192342,Edwin Cardona,Kolumbien,75,LM,77,Kolumbien
+29,191648,Maya Yoshida,Japan,75,IV,75,Japan
+28,191565,Yūya Ōsako,Japan,75,ST MS ZOM,75,Japan
+28,191269,Salman Al Faraj,Saudi-Arabien,75,ZM LM ZDM,75,Saudi-Arabien
+26,190947,David Jensen,Dänemark,75,TW,78,Dänemark
+31,189491,Olcay Şahan,Türkei,75,RM LM,75,Türkei
+28,189338,Jonathan Urretaviscaya,Uruguay,75,RM ST,75,Uruguay
+26,189303,Nélson Oliveira,Portugal,75,ST,77,Portugal
+29,189207,Jimmy Durmaz,Schweden,75,ZOM LM RM,75,Schweden
+27,189127,Serdar Aziz,Türkei,75,IV,77,Türkei
+27,188484,Abel Hernández,Uruguay,75,ST,75,Uruguay
+45,188033,Essam El Hadary,Ägypten,75,TW,75,Ägypten
+31,187659,Dmitriy Tarasov,Russland,75,ZDM ZM,75,Russland
+29,187132,Carlos Zambrano,Peru,75,IV,76,Peru
+29,186992,Jesús Dueñas,Mexiko,75,ZDM ZM,75,Mexiko
+30,186953,Onur Kıvrak,Türkei,75,TW,75,Türkei
+29,186130,James Chester,Wales,75,IV,75,Wales
+30,184472,Martin Olsson,Schweden,75,LV,75,Schweden
+29,183346,Fabian Frei,Schweiz,75,ZM ZDM ZOM,75,Schweiz
+31,183288,Yohan Benalouane,Tunesien,75,IV RV,75,Tunesien
+29,183187,Valentin Stocker,Schweiz,75,ZOM LM,75,Schweiz
+30,181262,Marek Suchý,Tschechische Repub.,75,IV,75,Tschechien
+30,179972,Eren Derdiyok,Schweiz,75,ST,75,Schweiz
+31,178115,Lazaros Christodoulopoulos,Griechenland,75,LM RM,75,Griechenland
+33,177974,Abel Aguilar,Kolumbien,75,ZDM,75,Kolumbien
+31,177022,Yassine Chikhaoui,Tunesien,75,ZOM MS,75,Tunesien
+33,176377,Duško Tošić,Serbien,75,IV LV,75,Serbien
+31,174669,Krzysztof Mączyński,Polen,75,ZDM ZM,75,Polen
+37,174542,Johnny Herrera,Chile,75,TW,75,Chile
+29,172553,Jonas Lössl,Dänemark,75,TW,76,Dänemark
+32,172124,Moussa Sow,Senegal,75,ST LM,75,Senegal
+32,172098,Álvaro Pereira,Uruguay,75,LV,75,Uruguay
+29,171875,Caner Erkin,Türkei,75,LV LM,75,Türkei
+32,170664,Cristian Rodríguez,Uruguay,75,ZOM LM,75,Uruguay
+31,169216,Shane Long,Republik Irland,75,ST,75,Irland
+34,168580,Alberto Rodríguez,Peru,75,IV,75,Peru
+31,167549,Roman Shishkin,Russland,75,RV ZDM IV RM,75,Russland
+34,167305,Juan Manuel Vargas,Peru,75,LV,75,Peru
+35,166851,Kári Árnason,Island,75,IV,75,Island
+31,162893,Johan Djourou,Schweiz,75,IV,75,Schweiz
+33,161805,Valon Behrami,Schweiz,75,ZDM ZM,75,Schweiz
+34,158851,Jean Beausejour,Chile,75,LV LF,75,Chile
+31,158438,Gelson Fernandes,Schweiz,75,ZDM ZM,75,Schweiz
+32,157427,Ashkan Dejagah,Iran,75,ZOM ZM,75,IR Iran
+31,155871,Bartosz Białkowski,Polen,75,TW,75,Polen
+32,144429,Oscar Wendt,Schweden,75,LV LM,75,Schweden
+34,138782,Darren Fletcher,Schottland,75,ZM ZDM,75,Schottland
+25,241788,Mehdi Taremi,Iran,74,LM LF,76,IR Iran
+19,239053,Federico Valverde,Uruguay,74,ZM ZDM,87,Uruguay
+20,237715,Patrick Cutrone,Italien,74,ST,88,Italien
+22,235813,Răzvan Marin,Rumänien,74,ZM ZDM,82,Rumänien
+20,235353,Ismaïla Sarr,Senegal,74,LF RF ST RM,85,Senegal
+26,234054,Carlos Cáceda,Peru,74,TW,79,Peru
+21,234045,Henry Onyekuru,Nigeria,74,LM,84,Nigeria
+20,232432,Luka Jović,Serbien,74,ST,83,Serbien
+20,231240,Emre Mor,Türkei,74,RM LM,85,Türkei
+23,230564,Mijat Gaćinović,Serbien,74,ZM LM ZOM,81,Serbien
+22,230042,Youssef Aït Bennasser,Marokko,74,ZM ZDM RV,82,Marokko
+21,229980,César Montes,Mexiko,74,IV,82,Mexiko
+22,228336,Florian Grillitsch,Österreich,74,ZM ZDM,80,Österreich
+26,227290,Marko Dmitrović,Serbien,74,TW,77,Serbien
+22,226226,Giovani Lo Celso,Argentinien,74,ZOM ZM,86,Argentinien
+29,226077,Ali Gabr,Ägypten,74,IV,74,Ägypten
+25,225706,Miguel Trauco,Peru,74,LV,77,Peru
+24,225299,Emiliano Velázquez,Uruguay,74,IV,81,Uruguay
+21,224158,Sofyan Amrabat,Marokko,74,ZM ZDM,79,Marokko
+21,223197,Enes Ünal,Türkei,74,ST,82,Türkei
+24,221422,Sverrir Ingi Ingason,Island,74,IV RV,79,Island
+22,221354,Miloš Veljković,Serbien,74,IV ZDM,83,Serbien
+24,220702,Gastón Silva,Uruguay,74,LV IV,79,Uruguay
+25,219914,Guillermo Varela,Uruguay,74,RV,79,Uruguay
+32,219470,Cheikh N'Doye,Senegal,74,ZM,74,Senegal
+26,218209,Taha Khenissi,Tunesien,74,ST,75,Tunesien
+27,218193,Youssef Msakni,Tunesien,74,LM LF ZOM,74,Tunesien
+27,217648,Genki Haraguchi,Japan,74,RM LM,75,Japan
+25,217605,Lukas Lerager,Dänemark,74,ZM ZDM,78,Dänemark
+24,217242,Yuya Kubo,Japan,74,MS ZOM ST,79,Japan
+23,216820,Moses Simon,Nigeria,74,LM ST,81,Nigeria
+30,216811,Kendall Waston,Costa Rica,74,IV,74,Costa Rica
+22,215930,Tin Jedvaj,Kroatien,74,RV IV,82,Kroatien
+25,215892,Uroš Spajić,Serbien,74,IV,79,Serbien
+25,214606,Sebastián Pérez,Kolumbien,74,ZDM,79,Kolumbien
+33,214110,José Cuadrado,Kolumbien,74,TW,74,Kolumbien
+24,213414,William Troost-Ekong,Nigeria,74,IV,79,Nigeria
+24,212258,Saleh Gomaa,Ägypten,74,ZOM,81,Ägypten
+25,212207,Nicolae Stanciu,Rumänien,74,ZOM ZDM ZM,80,Rumänien
+24,212125,Lazar Marković,Serbien,74,RM,78,Serbien
+33,212088,Mohamed Abdul Shafy,Ägypten,74,LV,74,Ägypten
+29,211592,Andrey Semenov,Russland,74,IV,75,Russland
+25,211321,Moussa Konaté,Senegal,74,ST,77,Senegal
+22,211147,Valentino Lazaro,Österreich,74,RM ZOM LM,81,Österreich
+25,211093,Callum McGregor,Schottland,74,ZOM ZM LM,77,Schottland
+23,210489,Louis Schaub,Österreich,74,LM RM ZOM,80,Österreich
+31,210439,Khalid Boutaïb,Marokko,74,ST,74,Marokko
+25,208522,Hörður Magnússon,Island,74,LV IV,79,Island
+25,207928,Tom Rogić,Australien,74,ZOM,77,Australien
+24,207807,Ryan Fraser,Schottland,74,RM LM,78,Schottland
+24,207791,Yussuf Poulsen,Dänemark,74,RF ST,81,Dänemark
+27,207472,Gōtoku Sakai,Japan,74,RV ZDM LV,74,Japan
+25,207444,Jürgen Damm,Mexiko,74,RF LF,77,Mexiko
+34,206379,Hannes Þór Halldórsson,Island,74,TW,74,Island
+24,205878,Stefanos Kapino,Griechenland,74,TW,79,Griechenland
+25,205478,Michael Krmenčík,Tschechische Repub.,74,ST,79,Tschechien
+26,204904,Moritz Bauer,Österreich,74,RV RAV RM,77,Österreich
+27,204874,Aleksandar Katai,Serbien,74,RM,74,Serbien
+24,203965,Viktor Fischer,Dänemark,74,LF ST ZOM,81,Dänemark
+25,202934,Ogenyi Onazi,Nigeria,74,ZDM ZM,77,Nigeria
+27,202078,Darlington Nagbe,USA,74,LM RM ZDM ZM,74,USA
+25,201943,Andreas Cornelius,Dänemark,74,ST,79,Dänemark
+25,201818,Ahmed Musa,Nigeria,74,RM ST,76,Nigeria
+25,201269,Frederik Rønnow,Dänemark,74,TW,79,Dänemark
+28,200443,Barry Douglas,Schottland,74,LAV LV,74,Schottland
+29,199417,Harun Tekin,Türkei,74,TW,75,Türkei
+24,198658,Fredrik Midtsjø,Norwegen,74,ZM ZDM,78,Norwegen
+35,198653,Martín Silva,Uruguay,74,TW,74,Uruguay
+29,198489,James McClean,Republik Irland,74,LM,74,Irland
+28,198067,François Moubandje,Schweiz,74,LV,74,Schweiz
+33,197300,Abdallah El-Said,Ägypten,74,ZOM RM,74,Ägypten
+28,197136,Karim Ansarifard,Iran,74,ST,74,IR Iran
+29,196688,Aldo Corzo,Peru,74,RV,74,Peru
+29,196435,Christian Ramos,Peru,74,IV,75,Peru
+33,196069,José Pedro Fuenzalida,Chile,74,RF RV,74,Chile
+27,195912,Suk Hyun Jun,"Korea, Republik",74,ST,76,"Korea, Rep."
+29,194665,Stefan Ilsanker,Österreich,74,ZDM IV RV,74,Österreich
+27,193849,Conor Hourihane,Republik Irland,74,ZM ZDM,75,Irland
+27,193337,Joel Obi,Nigeria,74,ZM ZDM,77,Nigeria
+31,192333,Lamine Sané,Senegal,74,IV,74,Senegal
+29,192274,Abdelaziz Barrada,Marokko,74,RM ZM LM,74,Marokko
+34,191578,Pejman Montazeri,Iran,74,IV,74,IR Iran
+34,191256,Osama Hawsawi,Saudi-Arabien,74,IV,74,Saudi-Arabien
+29,191198,Ivan Obradović,Serbien,74,LV,74,Serbien
+-,191173,Alejandro Bedoya,USA,74,ZM ZDM 31,74,
+30,191005,Ahmed Elmohamady,Ägypten,74,RV RM,74,Ägypten
+1,190772,Matt Besler,USA,74,IV 31,74,
+29,190560,Omar Gonzalez,USA,74,IV,74,USA
+27,190461,Björn Bergmann Sigurðarson,Island,74,ST RM,77,Island
+28,190120,Karl-Johan Johnsson,Schweden,74,TW,76,Schweden
+28,189757,Aleksandar Prijović,Serbien,74,ST,74,Serbien
+28,189536,Duje Čop,Kroatien,74,ST,74,Kroatien
+28,189462,Junior Hoilett,Kanada,74,LM RM,74,Kanada
+28,188879,Alfred N'Diaye,Senegal,74,ZDM ZM,74,Senegal
+30,188182,Leon Balogun,Nigeria,74,IV,75,Nigeria
+27,187702,Omar El Kaddouri,Marokko,74,ZM LM ZOM,75,Marokko
+31,187492,Dmitriy Kombarov,Russland,74,LV LM,74,Russland
+30,187084,Mame Diouf,Senegal,74,ST RF,74,Senegal
+27,187043,Stefan Johansen,Norwegen,74,ZM,75,Norwegen
+31,186330,Theodor Gebre Selassie,Tschechische Repub.,74,RV RM,74,Tschechien
+30,186296,Roman Neustädter,Russland,74,IV ZDM,74,Russland
+28,186274,Konstantin Rausch,Russland,74,LV LM,74,Russland
+27,186143,Oliver Norwood,Nordirland,74,ZDM ZM,77,Nordirland
+31,186098,Rodolfo Cota,Mexiko,74,TW,74,Mexiko
+29,184089,Mehdi Carcela,Marokko,74,RM LM,74,Marokko
+33,183122,Birkir Már Sævarsson,Island,74,RV,74,Island
+33,182860,Álvaro González,Uruguay,74,ZM ZDM,74,Uruguay
+31,181795,Fedor Kudryashov,Russland,74,IV LV,74,Russland
+33,181459,Vassilis Torosidis,Griechenland,74,RV LV,74,Griechenland
+30,177790,Artur Jędrzejczyk,Polen,74,RV,74,Polen
+32,177525,Nabil Dirar,Marokko,74,RV RM,74,Marokko
+31,177448,Gustav Svensson,Schweden,74,ZDM ZM IV,74,Schweden
+31,176942,Mikael Lustig,Schweden,74,RV IV,74,Schweden
+35,176518,Mauricio Victorino,Uruguay,74,IV,74,Uruguay
+33,175608,Ahmed Fathi,Ägypten,74,RV ZDM,74,Ägypten
+30,172517,Mike Jensen,Dänemark,74,ZM,74,Dänemark
+33,168883,Taiseer Al Jassam,Saudi-Arabien,74,ZM ZDM ZOM,74,Saudi-Arabien
+29,168621,Zeca,Griechenland,74,ZM RM ZDM,74,Griechenland
+34,167993,Vladimir Stojković,Serbien,74,TW,74,Serbien
+30,167706,Nicklas Bendtner,Dänemark,74,ST,74,Dänemark
+30,166844,Kyle Lafferty,Nordirland,74,ST LM,74,Nordirland
+36,165735,Brad Jones,Australien,74,TW,74,Australien
+31,165429,Claudiu Keşerü,Rumänien,74,ST,74,Rumänien
+31,165190,Joe Ledley,Wales,74,ZDM ZM,74,Wales
+33,163492,Nicolas Lombaerts,Belgien,74,IV,74,Belgien
+35,159240,Michael Krohn-Dehli,Dänemark,74,ZM LM ZDM ZOM,74,Dänemark
+34,147579,Vladimir Gabulov,Russland,74,TW,74,Russland
+37,140257,Alejandro Palacios,Mexiko,74,TW,74,Mexiko
+33,137494,Obafemi Martins,Nigeria,74,ST,74,Nigeria
+28,125871,Hasan Ali Kaldırım,Türkei,74,LV,74,Türkei
+35,53110,Craig Gordon,Schottland,74,TW,74,Schottland
+22,243656,Nemanja Radonjić,Serbien,73,LM RM,80,Serbien
+28,239675,Ramin Rezaeian,Iran,73,RV RM RAV,73,IR Iran
+26,239593,Kaveh Rezaei,Iran,73,ST,76,IR Iran
+23,236543,Gastón Guruceaga,Uruguay,73,TW,81,Uruguay
+20,235844,Edson Álvarez,Mexiko,73,IV ZDM,79,Mexiko
+19,235212,Achraf Hakimi,Marokko,73,LV RV,85,Marokko
+27,234578,Luis Reyes,Mexiko,73,LV,73,Mexiko
+22,234457,Oghenekaro Etebo,Nigeria,73,ZOM LM RM,82,Nigeria
+21,233241,Saeid Ezatolahi,Iran,73,ZDM ZM,86,IR Iran
+25,232869,Gen Shoji,Japan,73,IV,79,Japan
+24,231949,Saman Ghoddos,Iran,73,ST,78,IR Iran
+20,231838,Maximilian Wöber,Österreich,73,IV LV,83,Österreich
+25,229739,Jacek Góralski,Polen,73,ZDM ZM,77,Polen
+21,229594,Ante Ćorić,Kroatien,73,ZOM LM,85,Kroatien
+21,227732,Anastasios Donis,Griechenland,73,ST LM,83,Griechenland
+-,226807,Cristian Roldan,USA,73,ZDM ZM 23,79,
+23,226777,Cyle Larin,Kanada,73,ST,81,Kanada
+23,226627,Takumi Minamino,Japan,73,ZOM ST,80,Japan
+27,225646,Camilo Mayada,Uruguay,73,RV RM,73,Uruguay
+24,225114,Mimoun Mahi,Marokko,73,ST LM RM,77,Marokko
+1,224813,Kenneth Saief,USA,73,LM 24,76,
+32,223691,Mathías Corujo,Uruguay,73,RV ZM RM,73,Uruguay
+24,221430,Uroš Đurđević,Serbien,73,ST,78,Serbien
+28,218471,Kim Min Woo,"Korea, Republik",73,LM LV,73,"Korea, Rep."
+28,217047,Aníbal Godoy,Panama,73,ZDM,73,Panama
+25,216700,Maximiliano Meza,Argentinien,73,RF ZOM,76,Argentinien
+22,215565,Matt Miazga,USA,73,IV,80,USA
+34,214603,Farid Díaz,Kolumbien,73,LV,73,Kolumbien
+32,214506,Román Torres,Panama,73,IV,73,Panama
+34,214190,Leandro Castellanos,Kolumbien,73,TW,73,Kolumbien
+27,214047,Matheus Uribe,Kolumbien,73,ZDM,74,Kolumbien
+26,212992,Jón Daði Böðvarsson,Island,73,ST,75,Island
+-,212591,Walker Zimmerman,USA,73,IV 25,77,
+24,211385,Riza Durmisi,Dänemark,73,LV LAV,80,Dänemark
+26,210603,Yasser Al Shahrani,Saudi-Arabien,73,RV LV,76,Saudi-Arabien
+24,210468,Ilya Kutepov,Russland,73,IV,81,Russland
+28,209547,Stefan Mitrović,Serbien,73,IV,75,Serbien
+28,209281,Yahia Sulaiman Al Shehri,Saudi-Arabien,73,RM ZOM LM,73,Saudi-Arabien
+26,209063,Sebastian Holmén,Schweden,73,IV,76,Schweden
+23,208977,Fahad Al Muwallad,Saudi-Arabien,73,RM ST,81,Saudi-Arabien
+32,208914,Omar Hawsawi,Saudi-Arabien,73,IV,73,Saudi-Arabien
+23,208509,Thomas Foket,Belgien,73,RM,78,Belgien
+28,208339,Oumar Niasse,Senegal,73,ST,73,Senegal
+24,208053,Dimitrios Pelkas,Griechenland,73,ZOM RM LM,77,Griechenland
+24,208045,Oussama Tannane,Marokko,73,RM LM,78,Marokko
+23,207650,Emil Krafth,Schweden,73,RV,80,Schweden
+25,207555,Filip Helander,Schweden,73,IV,78,Schweden
+26,207554,Viktor Claesson,Schweden,73,ZOM LM ZM RM,74,Schweden
+24,204612,Ole Kristian Selnæs,Norwegen,73,ZM ZDM,77,Norwegen
+25,204412,George Saville,Nordirland,73,ZM LM,78,Nordirland
+31,204194,Saber Khalifa,Tunesien,73,ST RM,73,Tunesien
+25,204078,Rafał Wolski,Polen,73,ZOM ZM,77,Polen
+32,203801,Francisco Silva,Chile,73,ZM ZDM,73,Chile
+27,203766,Ahmed El-Shenawy,Ägypten,73,TW,76,Ägypten
+33,203703,Walid Soliman,Ägypten,73,LM RM,73,Ägypten
+26,202944,Oscar Hiljemark,Schweden,73,ZM ZDM,78,Schweden
+25,202428,Bobby Wood,USA,73,ST LM,77,USA
+27,202157,Aziz Behich,Australien,73,LV,73,Australien
+26,201417,Matt Doherty,Republik Irland,73,RV LV,76,Irland
+26,201303,Rasmus Falk Jensen,Dänemark,73,RF LF,74,Dänemark
+26,199895,Léo Lacroix,Schweiz,73,IV,78,Schweiz
+26,199763,Bartosz Bereszyński,Polen,73,RV,76,Polen
+26,199761,Marcin Kamiński,Polen,73,IV,76,Polen
+26,199745,Erik Sviatchenko,Dänemark,73,IV,75,Dänemark
+30,199383,Timm Klose,Schweiz,73,IV,73,Schweiz
+30,199060,Georgios Tzavellas,Griechenland,73,LV IV,73,Griechenland
+28,198553,Cristian Gamboa,Costa Rica,73,RAV,73,Costa Rica
+31,195839,Ammar Jemal,Tunesien,73,IV LV,73,Tunesien
+33,195834,Aymen Mathlouthi,Tunesien,73,TW,73,Tunesien
+27,195033,Mathew Leckie,Australien,73,RM LM,73,Australien
+27,194876,Maxim Kanunnikov,Russland,73,ST RM,76,Russland
+28,194196,Fallou Diagne,Senegal,73,IV ZDM,73,Senegal
+27,194146,Kevin Long,Republik Irland,73,IV,73,Irland
+27,193247,Heinz Lindner,Österreich,73,TW,76,Österreich
+27,193133,Jens Stryger Larsen,Dänemark,73,RV LV,74,Dänemark
+29,192129,Kristoffer Nordfeldt,Schweden,73,TW,75,Schweden
+28,192102,Niklas Hult,Schweden,73,LV,73,Schweden
+30,191589,Alireza Haghighi,Iran,73,TW,73,IR Iran
+31,191566,Park Joo Ho,"Korea, Republik",73,LV ZM,73,"Korea, Rep."
+26,191388,Takashi Usami,Japan,73,LM ST,76,Japan
+27,190084,Panagiotis Tachtsidis,Griechenland,73,ZDM ZM,75,Griechenland
+30,189717,Reza Ghoochannejhad,Iran,73,ST,73,IR Iran
+28,189581,Ruslan Kambolov,Russland,73,IV ZDM,75,Russland
+33,188762,Igor Lewczuk,Polen,73,IV,73,Polen
+32,187478,Jair Pereira,Mexiko,73,IV,73,Mexiko
+31,187205,Luis Fuentes,Mexiko,73,LV,73,Mexiko
+33,186444,Hamdi Harbaoui,Tunesien,73,ST,73,Tunesien
+28,186347,Maciej Rybus,Polen,73,LV LM,73,Polen
+28,184271,Younousse Sankharé,Senegal,73,ZM,73,Senegal
+29,183606,Slobodan Rajković,Serbien,73,IV,74,Serbien
+30,183581,Jesús Molina,Mexiko,73,ZDM ZM,73,Mexiko
+27,183256,Henri Saivet,Senegal,73,ZM ZOM ZDM,74,Senegal
+36,182103,Egidio Arévalo Ríos,Uruguay,73,ZDM ZM,73,Uruguay
+29,180706,Craig Cathcart,Nordirland,73,IV RV,73,Nordirland
+31,179899,Ari Skúlason,Island,73,LV,73,Island
+28,179565,Mario Gavranović,Schweiz,73,ST ZOM,73,Schweiz
+29,178287,Scott Arfield,Kanada,73,ZM LM,73,Kanada
+32,178250,Papakouli Diop,Senegal,73,ZDM ZM,73,Senegal
+32,177280,Tore Reginiussen,Norwegen,73,IV,73,Norwegen
+35,176348,Yeom Ki Hun,"Korea, Republik",73,ST LM,73,"Korea, Rep."
+29,173735,Neil Taylor,Wales,73,LAV,73,Wales
+33,172939,Keiren Westwood,Republik Irland,73,TW,73,Irland
+31,170084,Wayne Hennessey,Wales,73,TW,73,Wales
+32,169324,Andreas Ulmer,Österreich,73,LV,73,Österreich
+33,164505,Brad Guzan,USA,73,TW,73,USA
+33,164459,Sebastian Larsson,Schweden,73,ZM RM,73,Schweden
+31,163156,Richard Keogh,Republik Irland,73,IV,73,Irland
+33,158676,William Kvist,Dänemark,73,ZM ZDM,73,Dänemark
+33,156975,Christophe Berra,Schottland,73,IV,73,Schottland
+33,132740,Jesper Hansen,Dänemark,73,TW,73,Dänemark
+36,49000,Allan McGregor,Schottland,73,TW,73,Schottland
+31,241787,Ezzatollah Pourghaz,Iran,72,IV,72,IR Iran
+29,241771,Anthony Nwakaeme,Nigeria,72,ST LM,72,Nigeria
+24,241757,Ghaylène Chaaleli,Tunesien,72,ZM ZOM,76,Tunesien
+25,241754,Hamdi Nagguez,Tunesien,72,RV,74,Tunesien
+26,241753,Mohamed Amine Ben Amor,Tunesien,72,ZDM IV,75,Tunesien
+20,238095,Nikola Milenković,Serbien,72,IV RV,82,Serbien
+31,238033,Florin Nita,Rumänien,72,TW,72,Rumänien
+25,237799,Kenyu Sugimoto,Japan,72,ST,76,Japan
+21,237086,Kim Min Jae,"Korea, Republik",72,IV,82,"Korea, Rep."
+26,235814,Romario Benzar,Rumänien,72,RV,73,Rumänien
+23,234777,Zack Steffen,USA,72,TW,79,USA
+26,232736,Yuki Kobayashi,Japan,72,ZM ZDM,76,Japan
+21,232693,Chidozie Awaziem,Nigeria,72,IV RV,80,Nigeria
+29,232510,Tsukasa Shiotani,Japan,72,IV,72,Japan
+32,232441,Masaaki Higashiguchi,Japan,72,TW,72,Japan
+22,232099,Marko Grujić,Serbien,72,ZDM ZM,85,Serbien
+20,230144,Assane Dioussé,Senegal,72,ZM ZDM,82,Senegal
+25,229026,Abdullahi Shehu,Nigeria,72,RV ZDM,77,Nigeria
+26,228204,Bassem Morsi,Ägypten,72,ST,74,Ägypten
+22,226289,Uche Agbo,Nigeria,72,ZDM IV,80,Nigeria
+27,226075,Michalis Bakakis,Griechenland,72,RV LV,72,Griechenland
+23,226045,Jesús Gallardo,Mexiko,72,LF LV,78,Mexiko
+27,224147,Guzmán Pereira,Uruguay,72,ZM ZDM,75,Uruguay
+26,223875,Yacine Bammou,Marokko,72,ST RM,74,Marokko
+23,223637,Andy Polo,Peru,72,RM,82,Peru
+29,223573,Munir El Kajoui,Marokko,72,TW,73,Marokko
+25,223283,Famara Diedhiou,Senegal,72,ST,76,Senegal
+28,222991,Manabu Saito,Japan,72,LM,72,Japan
+31,222986,Masato Morishige,Japan,72,IV,72,Japan
+22,222368,Anton Miranchuk,Russland,72,ZOM ZM,81,Russland
+26,221445,Wu Lei,China VR,72,ST RF LF,75,VR China
+27,218747,César Pinares,Chile,72,ZOM ZM,73,Chile
+29,218430,Samir Saad,Ägypten,72,IV,73,Ägypten
+23,217714,Paul Arriola,USA,72,RM,77,USA
+21,216003,Bartosz Kapustka,Polen,72,LM ZM,83,Polen
+22,215556,Edimilson Fernandes,Schweiz,72,ZM ZOM,80,Schweiz
+26,214601,Stefan Medina,Kolumbien,72,RV,76,Kolumbien
+23,214436,Paulo Díaz,Chile,72,RV IV LV,81,Chile
+24,213813,Alexander Fransson,Schweden,72,ZDM ZM ZOM,81,Schweden
+26,213317,Kim Jin Su,"Korea, Republik",72,LV,76,"Korea, Rep."
+22,213209,Kellyn Acosta,USA,72,ZDM ZM LV,80,USA
+29,213061,Mu Kanazaki,Japan,72,ST,72,Japan
+26,212509,Carlos Ascues,Peru,72,ZDM,77,Peru
+29,212048,Alexandru Chipciu,Rumänien,72,RM,72,Rumänien
+24,211513,Tom Lawrence,Wales,72,LF RF,76,Wales
+29,211453,Marwan Mohsen,Ägypten,72,ST,72,Ägypten
+25,211048,Olarenwaju Kayode,Nigeria,72,ST,76,Nigeria
+26,210947,Nikos Karelis,Griechenland,72,ST LM RM,75,Griechenland
+31,210434,Fouad Chafik,Marokko,72,RV,72,Marokko
+24,210136,Tomasz Kędziora,Polen,72,RV,80,Polen
+25,209984,Mikel Agu,Nigeria,72,ZDM,77,Nigeria
+27,208564,Peter Ankersen,Dänemark,72,RV,72,Dänemark
+25,208250,Anastasios Bakasetas,Griechenland,72,RM LM,76,Griechenland
+29,207788,Syam Ben Youssef,Tunesien,72,IV,72,Tunesien
+24,207624,Kenneth Omeruo,Nigeria,72,IV RV,79,Nigeria
+26,206161,Achraf Lazaar,Marokko,72,LV,74,Marokko
+25,206133,Anton Shvets,Russland,72,ZDM ZM,79,Russland
+28,205365,Jan Kopic,Tschechische Repub.,72,LM RM,72,Tschechien
+28,205364,Filip Novák,Tschechische Repub.,72,LV IV,72,Tschechien
+25,205347,Massimo Luongo,Australien,72,ZM ZDM,75,Australien
+26,205210,Oscar Lewicki,Schweden,72,ZDM ZM,75,Schweden
+26,203568,Paweł Wszołek,Polen,72,RM,74,Polen
+25,202905,Christoffer Nyman,Schweden,72,ST,76,Schweden
+-,202220,C.J. Sapong,USA,72,ST 29,72,
+25,200778,Cyrus Christie,Republik Irland,72,RV,77,Irland
+28,200461,Maciej Makuszewski,Polen,72,RM,72,Polen
+30,199866,John Ogu,Nigeria,72,ZM ZDM ZOM,72,Nigeria
+27,199752,Sylvester Igboun,Nigeria,72,ST LM RM,72,Nigeria
+26,199000,Trent Sainsbury,Australien,72,IV,75,Australien
+26,198599,Martin Linnes,Norwegen,72,LV RV,74,Norwegen
+28,198335,Bryan Oviedo,Costa Rica,72,LAV,72,Costa Rica
+25,198046,Damian Dąbrowski,Polen,72,ZDM ZM,76,Polen
+33,197154,Adolfo Machado,Panama,72,IV RV,72,Panama
+38,196852,Carlos Lobatón,Peru,72,ZM ZDM,72,Peru
+26,195480,Conor McLaughlin,Nordirland,72,RV,74,Nordirland
+31,194359,Yuto Nagatomo,Japan,72,LV RV,72,Japan
+28,194354,Ehsan Haji Safi,Iran,72,LV ZDM,72,IR Iran
+36,194350,Jalal Hosseini,Iran,72,IV,72,IR Iran
+31,194209,Youssef El Arabi,Marokko,72,ST,72,Marokko
+32,191843,Abdulmalek Al Khaibari,Saudi-Arabien,72,ZDM,72,Saudi-Arabien
+31,191547,Shinzo Koroki,Japan,72,ST MS,72,Japan
+31,188556,Mohamed Diamé,Senegal,72,ZM,72,Senegal
+31,188305,Aziz Bouhaddouz,Marokko,72,ST,72,Marokko
+31,187415,Vladimir Granat,Russland,72,IV LV,72,Russland
+29,186954,Brown Ideye,Nigeria,72,ST,72,Nigeria
+30,186839,Niall McGinn,Nordirland,72,RM,72,Nordirland
+29,186578,Andy King,Wales,72,ZM,72,Wales
+27,185427,Ørjan Nyland,Norwegen,72,TW,76,Norwegen
+29,185109,Maciej Sadlok,Polen,72,LV,72,Polen
+30,183781,Andreas Bjelland,Dänemark,72,IV LV,72,Dänemark
+29,182440,Robbie Kruse,Australien,72,RM LM,72,Australien
+33,181483,Mile Jedinák,Australien,72,ZDM,72,Australien
+35,180739,Eiji Kawashima,Japan,72,TW,72,Japan
+32,177533,Manuel da Costa,Marokko,72,IV,72,Marokko
+29,176627,Änis Ben-Hatira,Tunesien,72,LM ZOM,72,Tunesien
+31,176094,Przemysław Tytoń,Polen,72,TW,72,Polen
+35,175667,Andranik Teymourian,Iran,72,ZDM ZM RM,72,IR Iran
+32,175589,Feng Xiaoting,China VR,72,IV,72,VR China
+34,174732,Gabriel Gómez,Panama,72,ZDM,72,Panama
+28,173752,Chris Gunter,Wales,72,RAV IV,72,Wales
+31,169697,Darren Randolph,Republik Irland,72,TW,73,Irland
+32,167931,Rob Elliot,Republik Irland,72,TW,72,Irland
+32,158309,Gao Lin,China VR,72,ST LF RF,72,VR China
+33,142329,Alexandros Tziolis,Griechenland,72,ZDM ZM,72,Griechenland
+39,26709,Rafael Márquez,Mexiko,72,IV ZDM,72,Mexiko
+41,17605,Timmy Simons,Belgien,72,IV ZM,72,Belgien
+25,243586,Ayoub El Kaabi,Marokko,71,ST,76,Marokko
+26,240526,Mohamed Fouzair,Marokko,71,RM,72,Marokko
+23,239433,Nemanja Maksimović,Serbien,71,ZDM ZM,81,Serbien
+24,237209,Matej Mitrović,Kroatien,71,IV,77,Kroatien
+28,236999,David Guzman,Costa Rica,71,ZM ZDM,71,Costa Rica
+23,235565,Dylan Bronn,Tunesien,71,RV IV,78,Tunesien
+19,234986,Panagiotis Retsos,Griechenland,71,LV RV IV,83,Griechenland
+24,233600,Amr Warda,Ägypten,71,RM LM ZOM,76,Ägypten
+23,232610,Takuma Asano,Japan,71,LM RM MS,79,Japan
+24,232230,Ronald Matarrita,Costa Rica,71,LAV LM,78,Costa Rica
+23,232065,Kim Dong Joon,"Korea, Republik",71,TW,77,"Korea, Rep."
+26,227921,Morteza Pouraliganji,Iran,71,ZM IV ZDM,74,IR Iran
+24,226518,Antonio Milić,Kroatien,71,IV LV,77,Kroatien
+21,225263,Duje Ćaleta-Car,Kroatien,71,IV,77,Kroatien
+27,224599,Yan Junling,China VR,71,TW,72,VR China
+27,223219,Anice Badri,Tunesien,71,LM RM ST,71,Tunesien
+22,223074,Dorin Rotariu,Rumänien,71,RM,78,Rumänien
+28,221553,Viðar Örn Kjartansson,Island,71,ST,71,Island
+24,221467,Lee Chang Min,"Korea, Republik",71,ZOM ZM,78,"Korea, Rep."
+30,217639,Yosuke Kashiwagi,Japan,71,ZOM,71,Japan
+22,216549,Alexander Sørloth,Norwegen,71,ST LM,78,Norwegen
+26,215374,Scott Hogan,Republik Irland,71,ST,74,Irland
+22,215247,Marcus Ingvartsen,Dänemark,71,ST,79,Dänemark
+25,214026,Johan Mojica,Kolumbien,71,LM LV,73,Kolumbien
+24,214000,Yordy Reyna,Peru,71,RM,76,Peru
+26,213064,Francisco Calvo,Costa Rica,71,IV LAV,73,Costa Rica
+27,212791,Kim Seung Dae,"Korea, Republik",71,ST ZOM,71,"Korea, Rep."
+26,212783,Omar Gaber,Ägypten,71,RV LV,72,Ägypten
+24,211927,Kwon Chang Hoon,"Korea, Republik",71,RM,77,"Korea, Rep."
+25,211177,Arnór Ingvi Traustason,Island,71,LM RM,75,Island
+24,211099,Opa Nguette,Senegal,71,LF RF,77,Senegal
+25,210327,Andreas Gianniotis,Griechenland,71,TW,76,Griechenland
+27,209333,Chris Maxwell,Wales,71,TW,74,Wales
+31,208916,Mohammed Al Sahlawi,Saudi-Arabien,71,ST,71,Saudi-Arabien
+27,208063,Ju Se Jong,"Korea, Republik",71,ZM ZDM,71,"Korea, Rep."
+25,207684,Giannis Gianniotas,Griechenland,71,LM RM,76,Griechenland
+27,207553,Marcus Rohdén,Schweden,71,RM ZM,71,Schweden
+26,205985,Isaac Kiese Thelin,Schweden,71,ST,74,Schweden
+29,205942,Silviu Lung,Rumänien,71,TW,73,Rumänien
+27,203570,Stuart Dallas,Nordirland,71,LM RM,71,Nordirland
+28,201528,Kim Young Gwon,"Korea, Republik",71,IV,73,"Korea, Rep."
+25,201122,Tomáš Kalas,Tschechische Repub.,71,IV,76,Tschechien
+25,199748,Jonas Knudsen,Dänemark,71,LV IV,76,Dänemark
+27,199266,Ji Dong Won,"Korea, Republik",71,ST,74,"Korea, Rep."
+29,199238,Yun Young Sun,"Korea, Republik",71,IV,71,"Korea, Rep."
+34,197496,Yasser Al Mosailem,Saudi-Arabien,71,TW,71,Saudi-Arabien
+27,194662,Anton Zabolotnyy,Russland,71,ST,74,Russland
+29,193250,Marin Leovac,Kroatien,71,LV LM,71,Kroatien
+26,193092,Marco Rojas,Neuseeland,71,ZOM ZM,72,Neuseeland
+31,192146,Vladislav Ignatiev,Russland,71,RV RM,71,Russland
+30,191910,Kim Shin Wook,"Korea, Republik",71,ST,71,"Korea, Rep."
+27,191655,Kim Seung Gyu,"Korea, Republik",71,TW,73,"Korea, Rep."
+-,190846,Gino Potti,Italien,71,TW 38,71,
+28,190633,Henrik Dalsgaard,Dänemark,71,RV,71,Dänemark
+28,189944,Lamine Gassama,Senegal,71,RV,71,Senegal
+28,189723,Samuel Armenteros,Schweden,71,ST,71,Schweden
+32,189118,Thiago Cionek,Polen,71,IV,71,Polen
+34,188877,Masoud Shojaei,Iran,71,LM ZM,71,IR Iran
+29,187489,David Meyler,Republik Irland,71,ZM ZDM,71,Irland
+29,187013,Oswaldo Alanís,Mexiko,71,IV,71,Mexiko
+35,186355,Esteban Conde,Uruguay,71,TW,71,Uruguay
+27,186135,Corry Evans,Nordirland,71,ZDM ZM,72,Nordirland
+30,185089,Elderson Echiéjilé,Nigeria,71,LV,71,Nigeria
+31,184218,Lasse Vibe,Dänemark,71,ST RM,71,Dänemark
+31,182343,Hao Junmin,China VR,71,ZM ZDM ZOM,71,VR China
+31,182043,Zeng Cheng,China VR,71,TW,71,VR China
+32,178417,Charlie Mulgrew,Schottland,71,IV,71,Schottland
+32,176992,Mark Milligan,Australien,71,IV ZDM,71,Australien
+34,175753,Christian Bolaños,Costa Rica,71,LM RM,71,Costa Rica
+33,175749,Randall Azofeifa,Costa Rica,71,ZM ZOM,71,Costa Rica
+30,173667,Rúrik Gíslason,Island,71,RM LM ST,71,Island
+35,169423,Sherif Ekramy,Ägypten,71,TW,71,Ägypten
+30,169317,Tarik Elyounoussi,Norwegen,71,LM RM ST,71,Norwegen
+32,164467,Jamie Ward,Nordirland,71,RM ST LM,71,Nordirland
+34,163201,Michael McGovern,Nordirland,71,TW,71,Nordirland
+35,160770,Ólafur Ingi Skúlason,Island,71,ZDM ZM,71,Island
+38,17725,Aaron Hughes,Nordirland,71,IV,71,Nordirland
+28,241756,Rami Bedoui,Tunesien,70,IV RV,70,Tunesien
+25,241746,Yassine Meriah,Tunesien,70,IV,73,Tunesien
+19,238744,Weston McKennie,USA,70,ZM ZDM,84,USA
+23,236264,Pedro Aquino,Peru,70,ZDM ZM,75,Peru
+21,235410,Youssef En-Nesyri,Marokko,70,ST,78,Marokko
+26,233512,Alin Toşca,Rumänien,70,IV LV,74,Rumänien
+23,232870,Naomichi Ueda,Japan,70,IV,78,Japan
+21,232623,Yosuke Ideguchi,Japan,70,ZDM ZM,80,Japan
+20,232000,Lee Seung Woo,"Korea, Republik",70,LM,79,"Korea, Rep."
+26,231056,Stefan Marinović,Neuseeland,70,TW,75,Neuseeland
+23,229804,Alexandru Ionuţ Mitriţă,Rumänien,70,LM ZOM,76,Rumänien
+30,226079,Moamen Zakaria,Ägypten,70,RM,70,Ägypten
+23,226035,Jordan Morris,USA,70,ST RM,78,USA
+26,225060,Motaz Hawsawi,Saudi-Arabien,70,IV,74,Saudi-Arabien
+21,224656,Ola Aina,Nigeria,70,LV RV,79,Nigeria
+25,223724,Stefan Lainer,Österreich,70,RV,74,Österreich
+27,222987,Hotaru Yamaguchi,Japan,70,ZDM ZM,72,Japan
+26,222130,Amr Gamal,Ägypten,70,ST,71,Ägypten
+21,221168,Dawid Kownacki,Polen,70,ST,83,Polen
+23,220029,Saîf-Eddine Khaoui,Tunesien,70,ZOM RM,75,Tunesien
+28,218229,Ali Maâloul,Tunesien,70,LV LM,70,Tunesien
+32,217646,Shūsaku Nishikawa,Japan,70,TW,70,Japan
+34,216780,Jhonny Acosta,Costa Rica,70,IV,70,Costa Rica
+24,213750,Ken Sema,Schweden,70,LM,76,Schweden
+23,213697,Paddy McNair,Nordirland,70,ZDM ZM IV,78,Nordirland
+24,212223,Sean Maguire,Republik Irland,70,ST LF,78,Irland
+25,211378,Jackson Irvine,Australien,70,ZM ZOM,75,Australien
+25,210926,Abdullah Ateef,Saudi-Arabien,70,ZDM ZM,76,Saudi-Arabien
+26,210923,Mohammed Khalil Al Owais,Saudi-Arabien,70,TW,75,Saudi-Arabien
+23,210881,John McGinn,Schottland,70,ZM LM,78,Schottland
+23,210724,Callum Paterson,Schottland,70,RV RAV ZM,77,Schottland
+26,210602,Salem Al Dawsari,Saudi-Arabien,70,RM ZM LM,70,Saudi-Arabien
+29,210202,Salman Muwashar,Saudi-Arabien,70,LM,70,Saudi-Arabien
+27,209981,Yassine Bounou,Marokko,70,TW,74,Marokko
+23,209483,Mouez Hassen,Tunesien,70,TW,76,Tunesien
+23,208306,Mariusz Stępiński,Polen,70,ST,77,Polen
+30,207753,Oh Ban Suk,"Korea, Republik",70,IV,70,"Korea, Rep."
+30,206493,Yunis Abdelhamid,Marokko,70,IV,70,Marokko
+29,205234,Ahmed Akaichi,Tunesien,70,ST,70,Tunesien
+26,205188,Rachid Alioui,Marokko,70,ST,74,Marokko
+31,203889,Yoann Touzghar,Tunesien,70,ST,70,Tunesien
+25,203377,Adnane Tighadouini,Marokko,70,LM,72,Marokko
+30,202855,Tan Long,China VR,70,ST RF,70,VR China
+24,201976,Alfred Gomis,Senegal,70,TW,77,Senegal
+30,201966,Alexander Søderlund,Norwegen,70,ST,70,Norwegen
+23,201877,Mats Møller Dæhli,Norwegen,70,ZOM ZM,75,Norwegen
+29,200672,Zhang Linpeng,China VR,70,RV IV LV,70,VR China
+27,199236,Hong Chul,"Korea, Republik",70,LV LM,70,"Korea, Rep."
+27,198429,Stanislav Tecl,Tschechische Repub.,70,ST,71,Tschechien
+33,197973,Osvaldo González,Chile,70,IV,70,Chile
+26,197233,Abdoulaye Diallo,Senegal,70,TW,74,Senegal
+25,197166,Juan Agudelo,USA,70,ST LM,74,USA
+29,194718,Amara Baby,Senegal,70,LF,70,Senegal
+30,194415,Alberto Quintero,Panama,70,RM LM,70,Panama
+26,193768,Adam Matthews,Wales,70,RAV IV,71,Wales
+27,192098,Nosakhare Igiebor,Nigeria,70,ZOM ZM,70,Nigeria
+-,190836,Francesco Muckarelli,Kanada,70,TW 39,70,
+25,190549,Markus Henriksen,Norwegen,70,ZOM ZM,73,Norwegen
+28,184643,Jorge Villafaña,USA,70,LV,70,USA
+31,182411,Yu Hanchao,China VR,70,LF RF,70,VR China
+30,177373,Lasse Nielsen,Dänemark,70,IV,70,Dänemark
+30,172208,James Troisi,Australien,70,ZOM,70,Australien
+32,170828,Shikabala,Ägypten,70,LM RM,70,Ägypten
+33,165240,Fabien Camus,Tunesien,70,ZOM LM RM,70,Tunesien
+30,163369,Sébastien Pocognoli,Belgien,70,LM,70,Belgien
+37,158293,Zheng Zhi,China VR,70,ZDM ZM IV,70,VR China
+34,156221,Cristian Săpunaru,Rumänien,70,IV RV ZDM,70,Rumänien
+32,155532,Carl Ikeme,Nigeria,70,TW,70,Nigeria
+33,148564,Sławomir Peszko,Polen,70,LM RM,70,Polen
+38,51412,Tim Cahill,Australien,70,ZOM ST ZM,70,Australien
+23,241784,Mehdi Torabi,Iran,69,RM,76,IR Iran
+27,241755,Zied Boughattas,Tunesien,69,IV,71,Tunesien
+27,241749,Mohamed Ali Moncer,Tunesien,69,ZOM,71,Tunesien
+22,241727,Predrag Rajković,Serbien,69,TW,77,Serbien
+26,238940,Jakub Jugas,Tschechische Repub.,69,IV,73,Tschechien
+21,237600,Bassem Srarfi,Tunesien,69,RM LM,81,Tunesien
+23,237010,Deng Hanwen,China VR,69,RV,77,VR China
+23,236792,Tomáš Souček,Tschechische Repub.,69,ZDM,78,Tschechien
+30,233598,Ahmed Duiedar,Ägypten,69,IV,69,Ägypten
+25,233147,Ryota Oshima,Japan,69,ZDM ZM,74,Japan
+19,232999,Tyler Adams,USA,69,ZDM RAV,84,USA
+23,232562,Kosuke Nakamura,Japan,69,TW,78,Japan
+25,232487,Wataru Endo,Japan,69,IV,72,Japan
+26,231077,Martin Frýdek,Tschechische Repub.,69,ZM ZDM ZOM,70,Tschechien
+24,229585,Miloš Degenek,Australien,69,IV ZM,75,Australien
+24,227790,Jeong Seung Hyun,"Korea, Republik",69,IV,75,"Korea, Rep."
+23,226002,Miguel Araujo,Peru,69,IV,74,Peru
+22,224213,Tyronne Ebuehi,Nigeria,69,RV,74,Nigeria
+22,224198,Karim Hafez,Ägypten,69,LV,76,Ägypten
+24,222926,Adama Mbengue,Senegal,69,LV LM,76,Senegal
+29,222273,Jiang Zhipeng,China VR,69,LV,69,VR China
+27,222224,Paul Anton,Rumänien,69,ZDM ZM,73,Rumänien
+25,221370,Mohammed Al Buraik,Saudi-Arabien,69,RV,74,Saudi-Arabien
+31,220709,Ivan Vargić,Kroatien,69,TW,69,Kroatien
+26,219496,Simeon Nwankwo,Nigeria,69,ST,72,Nigeria
+26,218215,Ferjani Sassi,Tunesien,69,ZDM ZM,73,Tunesien
+26,216750,Patrik Carlgren,Schweden,69,TW,73,Schweden
+21,213933,Linus Wahlqvist,Schweden,69,RV,75,Schweden
+26,213321,Tomi Jurić,Australien,69,ST,72,Australien
+27,213163,Milan Rodić,Serbien,69,LV,71,Serbien
+23,213092,Samuel Piette,Kanada,69,ZDM ZM,74,Kanada
+23,212680,Jordan Jones,Nordirland,69,LM RM,77,Nordirland
+26,212432,Cho Hyun Woo,"Korea, Republik",69,TW,72,"Korea, Rep."
+24,212232,Jamie Maclaren,Australien,69,ST,73,Australien
+25,212075,Andrew Nabbout,Australien,69,LM ST,75,Australien
+26,212054,Bryan Idowu,Nigeria,69,LV LAV IV LM,73,Nigeria
+33,212047,Mihai Pintilii,Rumänien,69,ZDM ZM,69,Rumänien
+33,211805,Khadim N'Diaye,Senegal,69,TW,69,Senegal
+26,211626,Damian Kądzior,Polen,69,RM,71,Polen
+23,211204,Declan John,Wales,69,LAV,77,Wales
+28,210492,Abdulaziz Al Jebreen,Saudi-Arabien,69,ZDM ZM,69,Saudi-Arabien
+31,210209,Muhannad Asiri,Saudi-Arabien,69,ST,69,Saudi-Arabien
+27,210182,Mohammed Jahfali,Saudi-Arabien,69,IV,71,Saudi-Arabien
+30,210147,Mansour Al Harbi,Saudi-Arabien,69,LV,69,Saudi-Arabien
+31,210140,Abdullah Al Mayoof,Saudi-Arabien,69,TW,69,Saudi-Arabien
+24,210112,Cristian Benavente,Peru,69,ZOM,74,Peru
+30,209569,Hussain Al Moqahwi,Saudi-Arabien,69,ZOM ZM ZDM LM,69,Saudi-Arabien
+31,208714,Dragoş Grigore,Rumänien,69,IV ZDM,69,Rumänien
+27,208631,Filip Starzyński,Polen,69,ZOM ZM,71,Polen
+31,207739,Mike Havenaar,Japan,69,ST,69,Japan
+25,205929,Nicolaj Thomsen,Dänemark,69,LF ZM RV,73,Dänemark
+25,205352,Jordan Archer,Schottland,69,TW,75,Schottland
+30,205211,Milan Borjan,Kanada,69,TW,69,Kanada
+27,204125,Jan Bořil,Tschechische Repub.,69,LV RV,69,Tschechien
+32,203820,Karim Aouadhi,Tunesien,69,ZDM ZM,69,Tunesien
+28,202896,Marco Ureña,Costa Rica,69,ST,69,Costa Rica
+25,202678,Josh Risdon,Australien,69,RV,74,Australien
+25,202663,Daryl Horgan,Republik Irland,69,LM RM,72,Irland
+25,202208,Dimitri Petratos,Australien,69,ZOM,72,Australien
+26,200440,Billy Bodin,Wales,69,RF LF,70,Wales
+27,200434,Luis Pedro Cavanda,Belgien,69,RM,69,Belgien
+25,198810,Bailey Wright,Australien,69,IV RV,75,Australien
+28,198455,Johan Larsson,Schweden,69,RV,69,Schweden
+25,198437,Tom Bradshaw,Wales,69,ST,73,Wales
+26,197975,Sam Morsy,Ägypten,69,ZDM,71,Ägypten
+28,196848,Írven Ávila,Peru,69,ST,69,Peru
+31,194361,Tomoaki Makino,Japan,69,IV,69,Japan
+28,193277,Jörg Siebenhandl,Österreich,69,TW,70,Österreich
+31,192555,Issam El Adoua,Marokko,69,ZDM IV,69,Marokko
+28,192250,Matthew Jurman,Australien,69,IV,69,Australien
+34,191834,Nasser Al Shamrani,Saudi-Arabien,69,ST,69,Saudi-Arabien
+29,191378,Shu Kurata,Japan,69,ZDM ZOM ZM,69,Japan
+30,190915,Kamil Wilczek,Polen,69,ST,69,Polen
+28,190196,Zargo Touré,Senegal,69,IV,70,Senegal
+27,188916,Hólmar Örn Eyjólfsson,Island,69,IV RV,71,Island
+30,187915,Emir Kujović,Schweden,69,ST,69,Schweden
+29,186876,Efe Ambrose,Nigeria,69,IV RV,69,Nigeria
+28,186352,Tommy Smith,Neuseeland,69,IV,69,Neuseeland
+29,184747,Chris Martin,Schottland,69,ST,69,Schottland
+32,184703,Luis Montes,Mexiko,69,ZM ZOM,69,Mexiko
+29,184456,Eric Lichaj,USA,69,RV LV,69,USA
+30,183997,Yu Dabao,China VR,69,ST ZOM,69,VR China
+27,183339,Jo Inge Berget,Norwegen,69,ST LM,69,Norwegen
+30,183113,Jeremy Brockie,Neuseeland,69,ST,69,Neuseeland
+29,182435,Mitchell Langerak,Australien,69,TW,70,Australien
+33,181481,Danny Vukovic,Australien,69,TW,69,Australien
+30,179840,Matthew Spiranovic,Australien,69,IV,69,Australien
+33,176403,Lee Keun Ho,"Korea, Republik",69,ST,69,"Korea, Rep."
+29,174754,Gabriel Torres,Panama,69,ST,69,Panama
+30,173703,Rhys Williams,Australien,69,IV,69,Australien
+30,173450,James Meredith,Australien,69,LV,69,Australien
+31,164568,Will Johnson,Kanada,69,ZM ZDM,69,Kanada
+30,155355,Lee Chung Yong,"Korea, Republik",69,ZOM LM,69,"Korea, Rep."
+37,139882,Felipe Baloy,Panama,69,IV,69,Panama
+33,138704,Issa Cissokho,Senegal,69,RV,69,Senegal
+23,243533,Mahmoud Hamdy,Ägypten,68,IV,78,Ägypten
+25,243007,Lukáš Masopust,Tschechische Repub.,68,RM RV,71,Tschechien
+23,242945,Ahmed Khalil,Tunesien,68,ZDM IV ZM,71,Tunesien
+22,242614,Ionuţ Nedelcearu,Rumänien,68,IV,76,Rumänien
+30,241786,Vorya Ghafouri,Iran,68,RV RM,68,IR Iran
+30,241785,Vahid Amiri,Iran,68,LM ZM,68,IR Iran
+29,241763,Ikechukwu Ezenwa,Nigeria,68,TW,69,Nigeria
+25,241747,Hamza Mathlouthi,Tunesien,68,RV,71,Tunesien
+24,241731,Édgar Bárcenas,Panama,68,LM,74,Panama
+19,239978,Dennis Man,Rumänien,68,RM,82,Rumänien
+24,239402,Michael Lüftner,Tschechische Repub.,68,IV,74,Tschechien
+19,239120,Francis Uzoho,Nigeria,68,TW,82,Nigeria
+22,237841,Michael Murillo,Panama,68,RV IV,73,Panama
+25,237419,Amir Abedzadeh,Iran,68,TW,73,IR Iran
+19,237156,Moussa Wagué,Senegal,68,RV RAV,80,Senegal
+17,234396,Alphonso Davies,Kanada,68,LM RM,86,Kanada
+29,229996,Johan Venegas,Costa Rica,68,ZOM ZM RM,68,Costa Rica
+27,228887,Tomislav Mrčela,Australien,68,IV,69,Australien
+34,228269,Jair Céspedes,Peru,68,LV,68,Peru
+27,228203,Ayman Ashraf,Ägypten,68,LM ZOM,68,Ägypten
+22,226380,Hwang Hee Chan,"Korea, Republik",68,ST,78,"Korea, Rep."
+31,223436,Issa Sarr,Senegal,68,ZDM ZM,68,Senegal
+23,223344,Wei Shihao,China VR,68,LF RF,76,VR China
+22,220570,Jan Bednarek,Polen,68,IV,80,Polen
+23,219466,Birger Solberg Meling,Norwegen,68,LV ZDM,74,Norwegen
+30,218432,Sabry Raheel,Ägypten,68,LV,68,Ägypten
+29,218216,Farouk Ben Mustapha,Tunesien,68,TW,68,Tunesien
+26,216810,Yeltsin Tejeda,Costa Rica,68,ZM ZDM,70,Costa Rica
+29,216356,Josip Pivarić,Kroatien,68,LV LM,68,Kroatien
+23,215598,Shani Tarashaj,Schweiz,68,ZOM,75,Schweiz
+30,215163,Armando Cooper,Panama,68,ZDM LM,68,Panama
+23,213404,Paweł Dawidowicz,Polen,68,IV ZDM,77,Polen
+28,213106,Rúnar Már Sigurjónsson,Island,68,ZDM ZM,70,Island
+23,213105,Lee Evans,Wales,68,ZM ZDM,73,Wales
+24,213007,Abdul Fatah Aseri,Saudi-Arabien,68,RM LM ZOM,74,Saudi-Arabien
+32,211452,Hossam Ashour,Ägypten,68,ZDM,68,Ägypten
+23,211363,Tom Lockyer,Wales,68,IV,76,Wales
+23,210320,Ibrahima Mbaye,Senegal,68,RV LV RM,76,Senegal
+23,208597,Hjörtur Hermannsson,Island,68,IV RV,74,Island
+29,203929,Jón Guðni Fjóluson,Island,68,IV,69,Island
+31,203704,Ibrahim Salah,Ägypten,68,ZDM,68,Ägypten
+31,201936,Kim Jin Hyeon,"Korea, Republik",68,TW,68,"Korea, Rep."
+25,200332,Tomáš Koubek,Tschechische Repub.,68,TW,71,Tschechien
+29,198687,Saliou Ciss,Senegal,68,LV LM RM,68,Senegal
+30,196434,Josepmir Ballón,Peru,68,ZDM ZM,68,Peru
+27,193144,Nam Tae Hee,"Korea, Republik",68,RM ZM,69,"Korea, Rep."
+32,191842,Hassan Muath Fallatah,Saudi-Arabien,68,RV RM,68,Saudi-Arabien
+-,190835,Annyong Quan,China VR,68,RM 32,68,
+-,190828,Salvatore Di Angelotti,Italien,68,ST 33,68,
+30,190588,Rodney Wallace,Costa Rica,68,LM,68,Costa Rica
+28,190180,Ryan McGowan,Australien,68,RV IV,68,Australien
+27,189776,Marley Watkins,Wales,68,RF ST,68,Wales
+32,186655,José Carvallo,Peru,68,TW,68,Peru
+30,184337,Go Yo Han,"Korea, Republik",68,RM ZM,68,"Korea, Rep."
+28,183475,Sten Michael Grytebust,Norwegen,68,TW,68,Norwegen
+29,182473,Li Xuepeng,China VR,68,LV IV,68,VR China
+31,176346,Choi Chul Soon,"Korea, Republik",68,RV IV,68,"Korea, Rep."
+37,174746,Blas Pérez,Panama,68,ST ZOM,68,Panama
+36,174745,Jaime Penedo,Panama,68,TW,68,Panama
+32,163998,Themistoklis Tzimopoulos,Neuseeland,68,IV ZDM,68,Neuseeland
+33,147899,Cosmin Moţi,Rumänien,68,IV,68,Rumänien
+25,243000,Nicușor Bancu,Rumänien,67,LM,69,Rumänien
+26,241780,Amr Marei,Ägypten,67,ST,70,Ägypten
+24,241778,Badr Benoun,Marokko,67,IV,73,Marokko
+25,241761,Pape Seydou Ndiaye,Senegal,67,TW,71,Senegal
+23,241734,Jan Carlos Vargas,Panama,67,IV,76,Panama
+25,241362,Šimon Falta,Tschechische Repub.,67,LM,72,Tschechien
+20,241095,Nikola Vlašić,Kroatien,67,RM ZOM RF,82,Kroatien
+24,239652,Mostafa Fathi,Ägypten,67,RM ZOM LM,77,Ägypten
+26,237548,Oussama Haddadi,Tunesien,67,LV LAV,70,Tunesien
+24,233401,Aron Sigurðarson,Island,67,LM RM,71,Island
+20,233195,Xaver Schlager,Österreich,67,ZM ZOM ZDM,81,Österreich
+27,231875,Valentín Pimentel,Panama,67,RM ZOM,68,Panama
+26,229694,Moon Seon Min,"Korea, Republik",67,LM,70,"Korea, Rep."
+25,228271,Christofer Gonzales,Peru,67,LM,69,Peru
+28,228266,Ingvar Jónsson,Island,67,TW,69,Island
+29,228182,Mohamed El-Shenawy,Ägypten,67,TW,70,Ägypten
+28,224608,Cai Huikang,China VR,67,ZDM,67,VR China
+21,224297,Alex Gersbach,Australien,67,LV,78,Australien
+20,224258,Kristoffer Ajer,Norwegen,67,IV,77,Norwegen
+22,223143,Ulisses Garcia,Schweiz,67,LV LM,75,Schweiz
+29,222235,Ren Hang,China VR,67,IV LV,67,VR China
+25,221791,Rafał Kurzawa,Polen,67,LM ZM,72,Polen
+27,220177,Gheorghe Grozav,Rumänien,67,LM ZOM,67,Rumänien
+23,220028,Sam Adekugbe,Kanada,67,LV,74,Kanada
+22,219948,Jason Cummings,Schottland,67,ST,75,Schottland
+27,218214,Fakhereedine Ben Youssef,Tunesien,67,ST RM,68,Tunesien
+27,218176,Moez Ben Chérifia,Tunesien,67,TW,69,Tunesien
+26,217758,Conor Washington,Nordirland,67,ST LM,70,Nordirland
+28,216351,Domagoj Antolić,Kroatien,67,ZM ZDM,67,Kroatien
+26,213439,Jonathan Osorio,Kanada,67,ZM ZOM LM RM,71,Kanada
+26,211005,Jang Hyeon Soo,"Korea, Republik",67,IV,70,"Korea, Rep."
+33,210749,Ricardo Buitrago,Panama,67,ZOM LM RM,67,Panama
+24,210476,Markus Kuster,Österreich,67,TW,72,Österreich
+26,209888,Craig Goodwin,Australien,67,LM,68,Australien
+31,209051,Abdulmajeed Al Ruwaili,Saudi-Arabien,67,ZDM ZM ZOM,67,Saudi-Arabien
+30,209001,Mukhtar Omar Fallatah,Saudi-Arabien,67,ST,67,Saudi-Arabien
+28,208636,Lee Myung Joo,"Korea, Republik",67,ZM ZDM,68,"Korea, Rep."
+24,207926,Andreas Linde,Schweden,67,TW,74,Schweden
+28,206435,Apostolos Giannou,Australien,67,ST,67,Australien
+26,204422,Dylan McGowan,Australien,67,IV,70,Australien
+28,202921,Jake Gleeson,Neuseeland,67,TW,69,Neuseeland
+29,202170,Michael Boxall,Neuseeland,67,IV RAV,67,Neuseeland
+30,198330,Ivan Franjić,Australien,67,RM,67,Australien
+30,197374,Khalil Chemmam,Tunesien,67,LV,67,Tunesien
+29,191409,Naif Ahmed Hazazi,Saudi-Arabien,67,ST,67,Saudi-Arabien
+30,191260,Abdullah Al Zori,Saudi-Arabien,67,LV IV,67,Saudi-Arabien
+29,189721,Arnór Smárason,Island,67,ZM RM LM,67,Island
+27,186562,Josh Magennis,Nordirland,67,ST,68,Nordirland
+33,182996,Xiao Zhi,China VR,67,ST,67,VR China
+29,182224,Wang Dalei,China VR,67,TW,67,VR China
+28,182091,Kosta Barbarouses,Neuseeland,67,ST,67,Neuseeland
+32,175598,Zhao Xuri,China VR,67,ZDM ZM,67,VR China
+36,174753,Luis Tejada,Panama,67,ST,67,Panama
+31,169448,Elmar Bjarnason,Island,67,LM ZM,67,Island
+30,166764,Trevor Carson,Nordirland,67,TW,67,Nordirland
+35,155821,Michael Umaña,Costa Rica,67,IV,67,Costa Rica
+26,241792,Omid Alishah,Iran,66,LM,67,IR Iran
+25,241743,Ulises Segura,Costa Rica,66,ZM,70,Costa Rica
+23,240196,Fidel Escobar,Panama,66,IV,72,Panama
+20,238346,Hamza Mendyl,Marokko,66,LV,78,Marokko
+21,237238,Scott McTominay,Schottland,66,ZM ZDM,80,Schottland
+26,235320,Bjørn Johnsen,Norwegen,66,ST,69,Norwegen
+24,235252,Abdiel Arroyo,Panama,66,ST,73,Panama
+19,234867,Daniel Arzani,Australien,66,RM ZOM,82,Australien
+19,234378,Declan Rice,Republik Irland,66,IV ZDM,82,Irland
+22,234178,Luis Abram,Peru,66,IV,75,Peru
+21,234154,Cristian Martinez,Panama,66,RM LM,74,Panama
+21,231867,Ismael Díaz,Panama,66,LM ST,79,Panama
+24,227847,Manjrekar James,Kanada,66,IV ZDM,71,Kanada
+21,225974,Scott McKenna,Schottland,66,IV,81,Schottland
+20,223229,Cristian Manea,Rumänien,66,RV,78,Rumänien
+23,222562,Rúnar Rúnarsson,Island,66,TW,76,Island
+21,220710,Harry Wilson,Wales,66,RF LF,78,Wales
+23,220075,Mohamed Kanno,Saudi-Arabien,66,ZOM ZM ZDM,76,Saudi-Arabien
+24,217077,Roberto Chen,Panama,66,IV,74,Panama
+26,217054,Harold Cummings,Panama,66,IV,71,Panama
+28,216808,José Salvatierra,Costa Rica,66,RAV LAV,66,Costa Rica
+29,216633,Ögmundur Kristinsson,Island,66,TW,68,Island
+27,213107,George Ţucudean,Rumänien,66,ST,69,Rumänien
+22,212830,Awer Mabil,Australien,66,RM LM ST,74,Australien
+35,203772,Mohamed Nagieb,Ägypten,66,IV,66,Ägypten
+29,203002,Kim Kee Hee,"Korea, Republik",66,IV RV,67,"Korea, Rep."
+31,200577,Lee Yong,"Korea, Republik",66,RV RM,66,"Korea, Rep."
+30,200265,Bilel Mohsni,Tunesien,66,IV,66,Tunesien
+29,198040,Esteban Alvarado,Costa Rica,66,TW,66,Costa Rica
+36,197701,Patrick Pemberton,Costa Rica,66,TW,66,Costa Rica
+29,196853,Joel Sánchez,Peru,66,RM LM,66,Peru
+26,193357,Lee Hodson,Nordirland,66,RV LV,69,Nordirland
+27,192624,Shane Ferguson,Nordirland,66,LM LV,67,Nordirland
+34,188610,Diego Penny,Peru,66,TW,66,Peru
+27,188278,Mark Birighitti,Australien,66,TW,70,Australien
+29,183347,Jayson Leutwiler,Kanada,66,TW,66,Kanada
+31,181866,Nikita Rukavytsya,Australien,66,ST ZOM,66,Australien
+29,179903,Oliver Bozanic,Australien,66,ZM ZDM,66,Australien
+32,169449,Kjartan Finnbogason,Island,66,ST,66,Island
+31,164581,Marcel de Jong,Kanada,66,LV,66,Kanada
+24,243008,Michal Travnik,Tschechische Repub.,65,ZDM,71,Tschechien
+24,241793,Ali Karimi,Iran,65,ZDM ZM,73,IR Iran
+32,241769,Daniel Akpeyi,Nigeria,65,TW,65,Nigeria
+25,241673,Borna Barišić,Kroatien,65,LV LM,69,Kroatien
+22,241671,Dominik Livaković,Kroatien,65,TW,72,Kroatien
+21,238004,Albert Guðmundsson,Island,65,ST RM,74,Island
+22,236313,Kingsley Madu,Nigeria,65,LV,73,Nigeria
+22,236259,Sergio Peña,Peru,65,ZOM,71,Peru
+23,236258,Nilson Loyola,Peru,65,LV,69,Peru
+21,229235,Musa Muhammed,Nigeria,65,RV LV,76,Nigeria
+26,226538,Haukur Heiðar Hauksson,Island,65,RV,68,Island
+23,226509,Aron Elís Þrándarson,Island,65,LM ST,71,Island
+28,224669,Yin Hongbo,China VR,65,LF RF,65,VR China
+26,221657,Tesho Akindele,Kanada,65,ST LM RM,66,Kanada
+31,217441,Sosha Makani,Iran,65,TW,65,IR Iran
+21,216817,Óttar Magnús Karlsson,Island,65,ST,76,Island
+25,213094,Storm Roux,Neuseeland,65,RAV,69,Neuseeland
+26,212778,Kwon Kyung Won,"Korea, Republik",65,IV,69,"Korea, Rep."
+27,212039,Saeed Al Muwallad,Saudi-Arabien,65,RV RM,65,Saudi-Arabien
+25,208974,Hattan Bahebri,Saudi-Arabien,65,LM RM,68,Saudi-Arabien
+28,193728,David Wotherspoon,Kanada,65,RM LM ZM,65,Kanada
+31,192528,Steven Vitória,Kanada,65,IV,65,Kanada
+32,191848,Waleed Abdullah,Saudi-Arabien,65,TW,65,Saudi-Arabien
+32,191218,Dejan Jaković,Kanada,65,IV RV,65,Kanada
+30,190720,Tosaint Ricketts,Kanada,65,RM ST,65,Kanada
+34,188013,Júnior Díaz,Costa Rica,65,LAV IV,65,Costa Rica
+29,187259,Luis Carlos Ovalle,Panama,65,LV,65,Panama
+29,186101,Even Hovland,Norwegen,65,IV,65,Norwegen
+31,172207,David Edgar,Kanada,65,IV ZDM RV,65,Kanada
+37,160295,Eugene Galeković,Australien,65,TW,65,Australien
+26,241781,Mohamed Awad,Ägypten,64,TW,68,Ägypten
+22,241777,Ahmed Tagnaouti,Marokko,64,TW,74,Marokko
+27,241770,Dele Ajiboye,Nigeria,64,TW,66,Nigeria
+27,241672,Marko Lešković,Kroatien,64,IV,68,Kroatien
+26,241670,Filip Bradarić,Kroatien,64,ZDM,68,Kroatien
+20,239035,Gonzalo Collao,Chile,64,TW,78,Chile
+24,238195,Viðar Ari Jónsson,Island,64,RV LV,71,Island
+26,236992,José Guillermo Ortiz,Costa Rica,64,ST,67,Costa Rica
+26,236260,Anderson Santamaría,Peru,64,IV,67,Peru
+25,234735,Aleksandar Jovanović,Serbien,64,TW,69,Serbien
+21,231965,Beto da Silva,Peru,64,ST RM,74,Peru
+28,229851,Ali Al Bulayhi,Saudi-Arabien,64,IV,64,Saudi-Arabien
+21,229495,Chidiebere Nwakali,Nigeria,64,ZDM,77,Nigeria
+25,228627,Abdulrahman Al Obaid,Saudi-Arabien,64,LV,68,Saudi-Arabien
+23,227509,Elías Már Ómarsson,Island,64,ST,71,Island
+26,224769,Tom Doyle,Neuseeland,64,LAV IV,66,Neuseeland
+23,221664,Wilder Cartagena,Peru,64,ZDM,75,Peru
+27,221523,José González,Panama,64,ZOM RM,65,Panama
+26,217160,Peng Xinli,China VR,64,ZM ZDM,65,VR China
+26,217050,Roderick Miller,Panama,64,IV,68,Panama
+23,213009,Abdulrahman Al Ghamdi,Saudi-Arabien,64,RM,70,Saudi-Arabien
+34,210184,Assaf Ahmed Al Qarni,Saudi-Arabien,64,TW,64,Saudi-Arabien
+26,210134,Mohammed Al Fatil,Saudi-Arabien,64,IV,68,Saudi-Arabien
+27,202089,Luis Mejía,Panama,64,TW,66,Panama
+36,174737,Luis Henríquez,Panama,64,LV,64,Panama
+31,169447,Michael McGlinchey,Neuseeland,64,ZM,64,Neuseeland
+37,165888,Kwak Tae Hwi,"Korea, Republik",64,IV,64,"Korea, Rep."
+34,159195,Roberto Nurse,Panama,64,ST,64,Panama
+31,241794,Meysam Majidi,Iran,63,LV,63,IR Iran
+29,241739,Kenner Gutiérrez,Costa Rica,63,IV,63,Costa Rica
+25,241729,Josiel Núñez,Panama,63,ZOM RM,67,Panama
+28,241674,Zoran Nižić,Kroatien,63,IV,63,Kroatien
+23,241334,Liu Yiming,China VR,63,IV,72,VR China
+24,237192,Miguel Camargo,Panama,63,ZOM LM RM,68,Panama
+20,231292,Jamal Lewis,Nordirland,63,LV LM,80,Nordirland
+25,226733,David Ramirez,Costa Rica,63,ST,69,Costa Rica
+22,224418,Samúel Kári Friðjónsson,Island,63,ZM,75,Island
+28,217061,Rolando Blackburn,Panama,63,ST,63,Panama
+27,217045,Eric Davis,Panama,63,LV,63,Panama
+33,216782,Daniel Colindres,Costa Rica,63,ST LM,63,Costa Rica
+23,212358,Michael Petrasso,Kanada,63,RV RM,71,Kanada
+28,211003,Jung Woo Young,"Korea, Republik",63,ZDM ZM IV,63,"Korea, Rep."
+29,205679,Tony Taylor,Panama,63,RM ST,63,Panama
+27,203338,Ashtone Morgan,Kanada,63,LV LM,63,Kanada
+28,197682,Yassine El Kharroubi,Marokko,63,TW,66,Marokko
+22,243549,Majid Hosseini,Iran,62,IV,70,IR Iran
+21,243543,Ricardo Ávila,Panama,62,ZDM,71,Panama
+26,241798,Mohammad Ansari,Iran,62,IV,65,IR Iran
+29,241796,Mohammad Rashid Mazaheri,Iran,62,TW,63,IR Iran
+23,241735,Óscar Villarreal,Panama,62,LM,71,Panama
+27,241732,Manuel Vargas,Panama,62,ZDM,64,Panama
+29,239336,Danny Carvajal,Costa Rica,62,TW,62,Costa Rica
+23,238922,Mark-Anthony Kaye,Kanada,62,ZM LV,69,Kanada
+23,225489,Frederik Schram,Island,62,TW,72,Island
+23,220886,Bill Tuiloma,Neuseeland,62,IV,68,Neuseeland
+31,220293,Yendrick Ruíz,Costa Rica,62,ST,62,Costa Rica
+27,217065,Alex Rodríguez,Panama,62,TW,66,Panama
+28,216805,Leonel Moreira,Costa Rica,62,TW,64,Costa Rica
+32,193048,Óscar Esteban Granados,Costa Rica,62,ZDM ZM,62,Costa Rica
+32,174727,José de Jesús Calderón,Panama,62,TW,62,Panama
+37,155820,Leonardo González,Costa Rica,62,LAV,62,Costa Rica
+27,243548,Mohammad Reza Khanzadeh,Iran,61,IV,65,IR Iran
+26,242953,Nikko Boxall,Neuseeland,61,IV,63,Neuseeland
+20,242551,Ian Smith,Costa Rica,61,RAV,75,Costa Rica
+23,241802,Saeed Aghaei,Iran,61,LV LM,70,IR Iran
+27,241801,Hamed Lak,Iran,61,TW,63,IR Iran
+26,241797,Dariush Shojaeian,Iran,61,ZM ZDM,62,IR Iran
+21,241407,Myer Bevan,Neuseeland,61,ST,76,Neuseeland
+21,237721,Abdullah Al Khaibari,Saudi-Arabien,61,ZDM,71,Saudi-Arabien
+19,237714,Dane Ingham,Neuseeland,61,RAV,75,Neuseeland
+34,236262,César Ortíz,Peru,61,ZDM,61,Peru
+19,232669,Sarpreet Singh,Neuseeland,61,ZM,77,Neuseeland
+21,231063,Clayton Lewis,Neuseeland,61,ZOM ZM,73,Neuseeland
+23,226057,Deklan Wynne,Neuseeland,61,LAV,68,Neuseeland
+30,217444,Omid Ebrahimi,Iran,61,ZM ZDM,61,IR Iran
+32,216806,Ariel Rodríguez,Costa Rica,61,ZDM ZM,61,Costa Rica
+28,216804,Néstor Monge,Costa Rica,61,ZDM ZM,61,Costa Rica
+33,216784,Kenny Cunningham,Costa Rica,61,LM,61,Costa Rica
+28,214853,Renán Addles,Panama,61,ST,61,Panama
+28,201864,Simon Thomas,Kanada,61,TW,63,Kanada
+35,193050,Pablo Salazar,Costa Rica,61,IV,61,Costa Rica
+20,242289,Conor Hazard,Nordirland,60,TW,74,Nordirland
+21,241804,Omid Norafkan,Iran,60,ZM ZDM,71,IR Iran
+24,241803,Roozbeh Cheshmi,Iran,60,ZM ZDM IV,65,IR Iran
+28,241799,Soroosh Rafiei,Iran,60,ZM ZDM,60,IR Iran
+25,241789,Mehdi Sharifi,Iran,60,RM,62,IR Iran
+24,241742,Jhamir Ordain,Costa Rica,60,RAV,65,Costa Rica
+20,234726,Jose Luis Rodriguez,Panama,60,RM LM,76,Panama
+25,222402,Justin Gulley,Neuseeland,60,RAV,63,Neuseeland
+22,217994,Michael Crowe,Wales,60,TW,68,Wales
+24,206566,Max Crocombe,Neuseeland,60,TW,66,Neuseeland
+-,190833,Arnold Blissfell,Kanada,58,IV 40,58,
+-,190839,GianFrancesco Antonino,Italien,57,ST 37,57,

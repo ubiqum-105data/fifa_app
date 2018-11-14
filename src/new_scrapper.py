@@ -56,7 +56,9 @@ class FifaSpider(scrapy.Spider):
 
             player['id'] = item.xpath('.//@data-playerid').extract()[0]
             player['nation'] = item.xpath('.//td[@data-title="Nationalität"]/a/@title').extract()[0]
-            player['team'] = item.xpath('.//td[@data-title="Team"]/a/@title').extract()[0]
+            #player['team'] = item.xpath('.//td[@data-title="Team"]/a/@title').extract()[0]
+            team = item.xpath('.//td[@data-title="Team"]/a/@title').extract()
+            player['team'] = team[0] if len(team) > 0 else ''
 
             #self.logger.info(player)
             #self.logger.info(player.items())
